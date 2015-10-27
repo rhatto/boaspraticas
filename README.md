@@ -48,10 +48,27 @@ Os capítulos serão organizados na forma de:
 * Exercícios individuais de aplicação.
 * Leitura de material didático de apoio.
 
+###Dificuldade do curso:
+
+Intermediário
+ 
+###Relação do curso com o PRONATEC
+
+Eixo Tecnológico: Informação e Comunicação ( é um curso transversal, aderente á todos os demais cursos que envolvem linguagens de programação e / ou  desenvolvimento de software )
+
+###Aplicação do conhecimento: 
+
+Como e onde ele vai usar usar isso ? Por que que ele será um profissional melhor aplicando este conhecimento ?
+
+###Material Didático: 
+
+Sugestão de Bibliografia
+
 Plano de aulas
 --------------
 
 1. O que são boas práticas em desenvolvimento?
+  * Apresentação do professor e do curso
   * Produto "funcional" desde o dia 0.
 2. Metodologias e técnicas de produtividade.
   * Mitos (pessoa-mês, métricas).
@@ -97,3 +114,4 @@ Plano de aulas
 8. Quando (não) reinventar a roda.
   * Antipatterns.
   * Inferno de dependências.
+ 9. Apendice  - para os profissionais autônomos / free  : Como fazer / Apresentar uma proposta comercial para um cliente ? O que pode / deve constar ? Como cobrar ( por hora  / projeto )
