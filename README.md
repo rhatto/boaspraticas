@@ -67,10 +67,9 @@ Sugestão de Bibliografia
 Plano de aulas
 --------------
 
-1. O que são boas práticas em desenvolvimento?
+1. Metodologias e técnicas de produtividade.
   * Apresentação do professor e do curso
   * Produto "funcional" desde o dia 0.
-2. Metodologias e técnicas de produtividade.
   * Mitos (pessoa-mês, métricas).
   * A catedral e o bazar: Lei de Linus.
   * Metodologias pessoais.
@@ -80,30 +79,32 @@ Plano de aulas
   * Metodologias em equipe.
     * Agile.
     * Scrum.
-3. Ambientes de desenvolvimento eficientes.
+2. Ambientes de desenvolvimento eficientes.
   * A guerra dos editores de texto.
   * Teclas de atalho, backups e ferramentaria.
   * Ambiente de desenvolvimento eficiente e confortável.
   * Criando seus templates de desenvolvimento.
   * Mantendo um diário de bordo e uma base de conhecimento.
-4. Licenças de software.
+3. Licenças de software.
   * GPL.
   * BSD.
   * Apache.
   * Creative Commons.
   * Domínio Público.
-5. Controle de versão e social coding.
+4. Controle de versão e social coding.
   * O que é? Pra que serve?
   * Quais sistemas existem?
   * Focando no git e no git-flow.
   * Versionando desde o dia 0.
   * Social coding (gitlab, github, etc).
-6. DevOps: desenvolvendo e orquestrando.
-  * Sysadmin básico.
-  * Vagrant, docker.
+5. DevOps: desenvolvendo e orquestrando.
+  * Sysadmin básico:
+    * Permissões.
+    * SSH e rsync.
+  * Vagrant, docker, KVM e afins.
   * Ambientes reprodutíveis.
   * Integração contínua.
-7. Segurança e privacidade.
+6. Segurança e privacidade.
   * Segurança começa no desenvolvimento.
   * Use bibliotecas consolidadass!
   * Princípio das permissões mínimas.
@@ -111,7 +112,11 @@ Plano de aulas
     * Assinaturas digitais.
     * Comunicação cifrada.
   * Certificados x509 para SSL/TLS/HTTPS.
-8. Quando (não) reinventar a roda.
+7. Quando (não) reinventar a roda.
   * Antipatterns.
   * Inferno de dependências.
- 9. Apendice  - para os profissionais autônomos / free  : Como fazer / Apresentar uma proposta comercial para um cliente ? O que pode / deve constar ? Como cobrar ( por hora  / projeto )
+  * Documentação: lendo e escrevendo.
+8. Apendice: para os profissionais autônomos / freelancers.
+  * Como fazer / Apresentar uma proposta comercial para um cliente?
+  * Items essenciais de uma proposta.
+  * Como cobrar (por hora / projeto).
