@@ -32,14 +32,14 @@ Ao concluir o curso, o(a) aluno(a) terá condições de:
 
 O curso será dividido em 8 aulas, sendo cada aula organizada nos seguintes capítulos:
 
-1. O que são boas práticas em desenvolvimento?
-2. Metodologias e técnicas de produtividade.
-3. Ambientes de desenvolvimento eficientes.
-4. Licenças de software.
-5. Controle de versão e social coding.
-6. DevOps: desenvolvendo e orquestrando.
-7. Segurança e privacidade.
-8. Quando (não) reinventar a roda.
+1. Metodologias e técnicas de produtividade.
+2. Ambientes de desenvolvimento eficientes.
+3. Licenças de software.
+4. Controle de versão e social coding.
+5. DevOps: desenvolvendo e orquestrando.
+6. Segurança e privacidade.
+7. Quando (não) reinventar a roda.
+8. Lidando com os clientes.
 
 Os capítulos serão organizados na forma de:
 
@@ -48,29 +48,31 @@ Os capítulos serão organizados na forma de:
 * Exercícios individuais de aplicação.
 * Leitura de material didático de apoio.
 
-###Dificuldade do curso:
+### Dificuldade do curso
 
-Intermediário
+Intermediária.
  
-###Relação do curso com o PRONATEC
+### Relação do curso com o PRONATEC
 
-Eixo Tecnológico: Informação e Comunicação ( é um curso transversal, aderente á todos os demais cursos que envolvem linguagens de programação e / ou  desenvolvimento de software )
+Eixo Tecnológico: Informação e Comunicação (é um curso transversal, aderente á todos os demais cursos que envolvem linguagens de programação e / ou  desenvolvimento de software).
 
-###Aplicação do conhecimento: 
+### Aplicação do conhecimento
 
 Como e onde ele vai usar usar isso ? Por que que ele será um profissional melhor aplicando este conhecimento ?
 
-###Material Didático: 
+### Material Didático
 
-Sugestão de Bibliografia
+Sugestão de Bibliografia:
+
+* O Mítico Homem-Mês.
 
 Plano de aulas
 --------------
 
 1. Metodologias e técnicas de produtividade.
-  * Apresentação do professor e do curso
-  * Produto "funcional" desde o dia 0.
-  * Mitos (pessoa-mês, métricas).
+  * Apresentação do professor e do curso.
+  * O que são boas práticas de desenvolvimento?
+  * Mitos e verdades do desenvolvimento.
   * A catedral e o bazar: Lei de Linus.
   * Metodologias pessoais.
     * Pomodoro.
@@ -80,9 +82,9 @@ Plano de aulas
     * Agile.
     * Scrum.
 2. Ambientes de desenvolvimento eficientes.
-  * A guerra dos editores de texto.
-  * Teclas de atalho, backups e ferramentaria.
+  * A guerra dos editores de texto e IDEs.
   * Ambiente de desenvolvimento eficiente e confortável.
+  * Backups e ferramentaria.
   * Criando seus templates de desenvolvimento.
   * Mantendo um diário de bordo e uma base de conhecimento.
 3. Licenças de software.
@@ -98,12 +100,12 @@ Plano de aulas
   * Versionando desde o dia 0.
   * Social coding (gitlab, github, etc).
 5. DevOps: desenvolvendo e orquestrando.
-  * Sysadmin básico:
-    * Permissões.
-    * SSH e rsync.
   * Vagrant, docker, KVM e afins.
   * Ambientes reprodutíveis.
-  * Integração contínua.
+  * Integração contínua usando o [Travis CI](http://travis-ci.org/).
+  * Fazendo o deploy:
+    * SSH e rsync.
+    * Permissões.
 6. Segurança e privacidade.
   * Segurança começa no desenvolvimento.
   * Use bibliotecas consolidadass!
@@ -116,7 +118,7 @@ Plano de aulas
   * Antipatterns.
   * Inferno de dependências.
   * Documentação: lendo e escrevendo.
-8. Apendice: para os profissionais autônomos / freelancers.
+8. Lidando com os clientes.
   * Como fazer / Apresentar uma proposta comercial para um cliente?
   * Items essenciais de uma proposta.
-  * Como cobrar (por hora / projeto).
+  * Como cobrar (por hora ou por projeto).
