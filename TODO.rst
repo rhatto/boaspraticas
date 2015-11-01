@@ -1,4 +1,6 @@
 TODO
 ====
 
-- Gerar saídas em pdf.
+- Definir projeto de exemplo.
+- Completar roteiro de aulas.
+- Revisar conteúdo.

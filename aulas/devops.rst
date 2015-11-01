@@ -1,13 +1,20 @@
-DevOps: desenvolvendo e orquestrando
-====================================
+5. DevOps: desenvolvendo e orquestrando
+=======================================
 
--  Vagrant, docker, KVM e afins.
--  Ambientes reprodutíveis.
--  Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
--  Fazendo o deploy:
--  CLI básico (copiar, mover, apagar e permissões).
--  SSH e rsync.
--  Deploy via git.
+- Vagrant, docker, KVM e afins.
+- Ambientes reprodutíveis.
+- Fazendo o deploy:
+  - CLI básico (copiar, mover, apagar e permissões).
+  - SSH e rsync.
+  - Deploy via git.
+- Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
+
+Atividades
+----------
+
+- Instale o vagrant.
+- Crie uma máquina virtual para desenvolver o seu projeto.
+- Crie uma conta no Travis CI.
 
 Referências
 -----------
@@ -21,4 +28,3 @@ Referências
    Jesus <https://danjesus.github.io/blog/deploy-facil-com-git/>`_.
 -  `PuPHPet - Online GUI configurator for Puppet &
    Vagrant <https://puphpet.com/>`_.
-
