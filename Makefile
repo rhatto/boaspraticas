@@ -156,3 +156,14 @@ web: html
 
 web_deploy:
 	@rsync -avz --delete _build/html/ boaspraticas:/var/sites/boaspraticas/www/
+
+doc: web
+	@mkdir -p _build/pdf
+	@mkdir -p _build/odt
+	@mkdir -p _build/docx
+	@pandoc index.rst -o _build/pdf/ementa.pdf
+	@pandoc index.rst -o _build/odt/ementa.odt
+	@pandoc index.rst -o _build/docx/ementa.docx
+	@pandoc plano.rst -o _build/pdf/plano.pdf
+	@pandoc plano.rst -o _build/odt/plano.odt
+	@pandoc plano.rst -o _build/docx/plano.docx
