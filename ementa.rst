@@ -89,7 +89,10 @@ profissional melhor aplicando este conhecimento ?
 Material Didático
 ~~~~~~~~~~~~~~~~~
 
-Sugestão de Bibliografia:
+Bibliografia básica:
 
--  O Mítico Homem-Mês.
+- O Mítico Homem-Mês.
 
+Bibliografia complementar:
+
+- Vide seção de referências de cada aula.
