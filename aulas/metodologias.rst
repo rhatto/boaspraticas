@@ -46,6 +46,7 @@ Queremos:
 1.3 - Metodologias pessoais - Básico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Fundamental: fazer fluir a criatividade e evitar preocupações.
 - Evitar distrações.
 - Uma tarefa por vez.
 - Foco na missão.
@@ -131,3 +132,5 @@ Referências
 - `Time management - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Time_management`_.
 - `Princípios por trás do Manifesto Ágil <http://www.agilemanifesto.org/iso/ptbr/principles.html>`_.
 - `Manifesto para o desenvolvimento ágil de software <http://www.manifestoagil.com.br/>`_.
+- https://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming
+- http://manifesto.co.uk/kanban-vs-scrum-vs-xp-an-agile-comparison/
