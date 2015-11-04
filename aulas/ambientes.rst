@@ -21,6 +21,14 @@ Editores
   - Simplicidade.
   - Performance.
 
+Fluxo de trabalho
+-----------------
+
+- Diário de bordo: de um arquivo de texto a um blog sobre desenvolvimento.
+- Organização de pastas.
+- Backups.
+- Scripts de produtividade.
+
 Atividades
 ----------
 

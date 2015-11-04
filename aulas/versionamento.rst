@@ -6,6 +6,7 @@ Atividades
 
 - Instale o git.
 - Crie uma conta do `Github <https://github.com>`_ e uma no `Gitlab <https://gitlab.com>`_.
+- Faça um pequeno site com o Skeleton.
 
 Referências
 -----------

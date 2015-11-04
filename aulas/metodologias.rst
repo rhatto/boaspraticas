@@ -46,12 +46,12 @@ Queremos:
 1.3 - Metodologias pessoais - Básico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Fundamental: fazer fluir a criatividade e evitar preocupações.
-- Evitar distrações.
+- Fundamental: fazer fluir a criatividade.
+- Evitar distrações e preocupações.
 - Uma tarefa por vez.
 - Foco na missão.
 - Fazer o essencial.
-- Método não é lei, é sugestão de caminho.
+- Método não é lei, é sugestão de caminho. Você descobriu que é multi-tarefas e funciona melhor assim? Ok! :)
 
 1.3 - Metodologias pessoais - Pomodoro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,10 +104,11 @@ Queremos:
 - TDD: técnica de desenvolvimento guiada por testes.
 - Híbridação: Scrumban + XP :D
 
-Começando um projeto
---------------------
+1.7 Começando um projeto
+------------------------
 
 - Brainstorm! O que é o projeto?
+- Exemplo: um pequeno website.
 - Pesquisa do que já existe.
 
 Atividades
