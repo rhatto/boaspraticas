@@ -3,18 +3,18 @@
 
 - Vagrant, docker, KVM e afins.
 - Ambientes reprodutíveis.
+- Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
 - Fazendo o deploy:
   - CLI básico (copiar, mover, apagar e permissões).
   - SSH e rsync.
   - Deploy via git.
-- Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
 
 Atividades
 ----------
 
-- Instale o vagrant.
-- Crie uma máquina virtual para desenvolver o seu projeto.
-- Crie uma conta no Travis CI.
+#. Instale o vagrant.
+#. Crie uma máquina virtual para desenvolver o seu projeto.
+#. Crie uma conta no Travis CI.
 
 Referências
 -----------

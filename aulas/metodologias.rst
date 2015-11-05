@@ -1,8 +1,8 @@
 1. Metodologias e técnicas de produtividade
 ===========================================
 
-1.1 - Apresentação
-------------------
+1.1 - O que são boas práticas em desenvolvimento?
+-------------------------------------------------
 
 1.1 - Apresentação do professor e do curso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -114,7 +114,9 @@ Queremos:
 Atividades
 ----------
 
-- Adote a técnica Pomodoro numa tarefa grande e importante do seu dia. Você pode usar qualquer cronômetro disponível -- do seu computador, do telefone, do relógio de pulso ou mesmo um timer de cozinha. Permaneça apenas realizando a tarefa importante em cada bloco de 25 minutos. Avalie a eficácia do método: ele te ajudou?
+#. Adote a técnica Pomodoro numa tarefa grande e importante do seu dia. Você pode usar qualquer cronômetro disponível -- do seu computador, do telefone, do relógio de pulso ou mesmo um timer de cozinha. Permaneça apenas realizando a tarefa importante em cada bloco de 25 minutos. Avalie a eficácia do método: ele te ajudou?
+
+#. Para este curso, definimos o nosso projeto de exemplo como sendo um website bem simples. Você pode fazer o mesmo ou então escolher qualquer projeto que queira fazer usando qualquer linguagem de programação e adaptar as atividades propostas nas aulas seguintes de acordo com o seu caso. Sugerimos apenas que você escolhe um nome para o seu projeto, mesmo que temporário! Mas lembre-se: nomes tem poder! :)
 
 Referências
 -----------
@@ -130,7 +132,7 @@ Referências
 - `Técnica pomodoro – Wikipédia, a enciclopédia livre <https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro>`_.
 - `Zen to Done - ZTD - Lucas Teixeira <http://lucasteixeira.com/ztd/>`_.
 - `Zen To Done (ZTD): The Simple Productivity System : zen habits <http://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/>`_.
-- `Time management - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Time_management`_.
+- `Time management - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Time_management>`_.
 - `Princípios por trás do Manifesto Ágil <http://www.agilemanifesto.org/iso/ptbr/principles.html>`_.
 - `Manifesto para o desenvolvimento ágil de software <http://www.manifestoagil.com.br/>`_.
 - https://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming
