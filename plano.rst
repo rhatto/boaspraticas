@@ -62,7 +62,7 @@ Plano de aulas
 
 * Aula 8:. Lidando com os clientes.
 
-  * Capítulo 1: Como fazer / Apresentar uma proposta comercial para um cliente?
+  * Capítulo 1: Fazendo e apresentando uma proposta comercial.
   * Capítulo 2: Items essenciais de uma proposta.
   * Capítulo 3: Como cobrar.
 
