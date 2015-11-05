@@ -16,3 +16,8 @@ Boas Práticas em Desenvolvimento
    aulas/clientes
    aulas/encerramento
    TODO
+
+Licença
+-------
+
+Vide :download:`LICENSE <LICENSE>`.
