@@ -47,8 +47,8 @@ Quatro liberdades do software livre:
 3.5 - Mozilla
 ~~~~~~~~~~~~~
 
-Atividades
-----------
+3.6 Atividades
+--------------
 
 #. Escolha uma licença para o seu projeto.
 #. Entre no gerador de licenças do CreativeCommons e gere uma licença. Guarde o código de embarcação da mesma para inseri-la no seu projeto.

@@ -40,8 +40,8 @@
 - Scripts de produtividade.
 - Templates de desenvolvimento.
 
-Atividades
-----------
+2.5 - Atividades
+----------------
 
 #. Teste diversos editores de textos e IDEs disponíveis para sua plataforma de desenvolvimento. Avalie cada um deles em termos de performance, funcionalidades, facilidade de uso e adaptação. A preferência pela plataforma de desenvolvimento varia muito de pessoa para pessoa: tente descobrir a sua!
 
@@ -50,5 +50,5 @@ Atividades
 Referências
 -----------
 
--  `Atom <https://atom.io/>`_.
--  `Lime Text Editor <http://limetext.org/>`_.
+- `Atom <https://atom.io/>`_.
+- `Lime Text Editor <http://limetext.org/>`_.

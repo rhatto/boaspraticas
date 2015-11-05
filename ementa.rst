@@ -49,17 +49,20 @@ Ao concluir o curso, o(a) aluno(a) terá condições de:
 Estrutura do curso
 ~~~~~~~~~~~~~~~~~~
 
-O curso será dividido em 9 aulas, sendo cada aula organizada nos seguintes capítulos:
+O curso está dividido nas seguintes aulas:
 
-1. `Metodologias e técnicas de produtividade <aulas/metodologias.html>`_.
-2. `Ambientes de desenvolvimento eficientes <aulas/ambientes.html>`_.
-3. `Licenças de software <aulas/licencas.html>`_.
-4. `Controle de versão e social coding <aulas/versionamento.html>`_.
-5. `DevOps: desenvolvendo e orquestrando <aulas/devops.html>`_.
-6. `Segurança e privacidade <aulas/seguranca.html>`_.
-7. `Quando (não) reinventar a roda <aulas/reinventando.html>`_.
-8. `Lidando com os clientes <aulas/clientes.html>`_.
-9. `Encerramento <aulas/encerramento.html>`_.
+.. toctree::
+   :maxdepth: 1
+
+   aulas/metodologias
+   aulas/ambientes
+   aulas/licencas
+   aulas/versionamento
+   aulas/devops
+   aulas/seguranca
+   aulas/reinventando
+   aulas/clientes
+   aulas/encerramento
 
 Os capítulos serão organizados na forma de:
 

@@ -1,17 +1,32 @@
 5. DevOps: desenvolvendo e orquestrando
 =======================================
 
-- Vagrant, docker, KVM e afins.
-- Ambientes reprodutíveis.
+5.1 Ambientes reprodutíveis
+---------------------------
+
+5.2 - Vagrant
+-------------
+
+5.3 - Docker
+------------
+
+5.4 - KVM, chroot e afins
+-------------------------
+
+5.5 - Integração contínua
+-------------------------
+
 - Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
-- Fazendo o deploy:
 
-  - CLI básico (copiar, mover, apagar e permissões).
-  - SSH e rsync.
-  - Deploy via git.
+5.6 - Fazendo o deploy
+----------------------
 
-Atividades
-----------
+- CLI básico (copiar, mover, apagar e permissões).
+- SSH e rsync.
+- Deploy via git.
+
+5.7 Atividades
+--------------
 
 #. Instale o vagrant.
 #. Crie uma máquina virtual para desenvolver o seu projeto.

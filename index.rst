@@ -5,7 +5,6 @@ Boas Práticas em Desenvolvimento
    :maxdepth: 2
 
    ementa
-   plano
    aulas/metodologias
    aulas/ambientes
    aulas/licencas

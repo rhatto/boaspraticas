@@ -104,15 +104,15 @@ Queremos:
 - TDD: técnica de desenvolvimento guiada por testes.
 - Híbridação: Scrumban + XP :D
 
-1.7 Começando um projeto
-------------------------
+1.7 - Começando um projeto
+--------------------------
 
 - Brainstorm! O que é o projeto?
 - Exemplo: um pequeno website.
 - Pesquisa do que já existe.
 
-Atividades
-----------
+1.8 - Atividades
+----------------
 
 #. Adote a técnica Pomodoro numa tarefa grande e importante do seu dia. Você pode usar qualquer cronômetro disponível -- do seu computador, do telefone, do relógio de pulso ou mesmo um timer de cozinha. Permaneça apenas realizando a tarefa importante em cada bloco de 25 minutos. Avalie a eficácia do método: ele te ajudou?
 

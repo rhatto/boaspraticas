@@ -33,8 +33,8 @@
 4.10 - Github: sistema de tickets
 ---------------------------------
 
-Atividades
-----------
+4.11 - Atividades
+-----------------
 
 #. Instale o git.
 #. Crie uma conta do `Github <https://github.com>`_ e uma no `Gitlab <https://gitlab.com>`_.
