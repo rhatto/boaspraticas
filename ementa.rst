@@ -64,9 +64,9 @@ O curso está dividido nas seguintes aulas:
    aulas/clientes
    aulas/encerramento
 
-Os capítulos serão organizados na forma de:
+As aulas são organizados na forma de:
 
--  Vídeo aulas.
+-  Vídeo aulas (capítulos).
 -  Testes e atividades online.
 -  Exercícios individuais de aplicação.
 -  Leitura de material didático de apoio.
