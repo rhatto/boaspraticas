@@ -5,6 +5,7 @@
 - Ambientes reprodutíveis.
 - Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
 - Fazendo o deploy:
+
   - CLI básico (copiar, mover, apagar e permissões).
   - SSH e rsync.
   - Deploy via git.
