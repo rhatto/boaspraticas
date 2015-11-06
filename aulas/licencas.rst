@@ -144,3 +144,4 @@ Referências
 * `Open Source Initiative <http://opensource.org/>`_.
 * `CreativeCommons Brasil <https://br.creativecommons.org/>`_.
 * `Free Software Foundation — working together for free software <https://www.fsf.org/?set_language=pt>`_.
+* `Apache license vs BSD vs MIT - Stack Overflow <https://stackoverflow.com/questions/40100/apache-license-vs-bsd-vs-mit>`_.
