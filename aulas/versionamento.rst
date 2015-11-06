@@ -4,10 +4,21 @@
 4.1 - O que é? Pra que serve?
 -----------------------------
 
-* Versionando desde o dia 0.
+* Salvar o estado do código em revisões sequenciais.
+* Integrar o trabalho do time.
+* Acompanhar as mudanças no código (encontrar bugs, rollback, etc).
+* Boa prática: versionando desde o dia 0.
 
 4.2 - Quais sistemas existem?
 -----------------------------
+
+* RCS (pré-histórico).
+* CVS (roots, centralizado).
+* Subversion (svn) (tradicional, centralizado).
+* Mercurial (hg), Monotone (mtn), Bazaar (bzr), Darcs, Git (modernos, distribuídos).
+
+4.2 - Centralizados versus distribuídos
+---------------------------------------
 
 4.3 - Git: introdução
 ---------------------
