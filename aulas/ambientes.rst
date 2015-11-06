@@ -19,6 +19,7 @@
 ~~~~~~~~~~~~~~
 
 - Vantagens dos IDEs (NetBeans, Eclipse, Aptana, etc):
+  - Facilidade de uso.
   - Ambiente de desenvolvimento integrado.
 - Vantagens dos editores de texto (Atom, Emacs, VIM, Notepad++, gedit etc):
   - Simplicidade.
@@ -26,6 +27,9 @@
 
 2.2 - Emulador de terminal
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Despacha comandos para sistemas.
+- Comandos podem ser automatizados.
 
 2.3 - Fluxo de trabalho
 ~~~~~~~~~~~~~~~~~~~~~~~

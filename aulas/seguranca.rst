@@ -21,3 +21,5 @@
 
 6.5 - Certificados x509 para SSL/TLS/HTTPS
 ------------------------------------------
+
+* `Let's Encrypt <https://letsencrypt.org>`_.

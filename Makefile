@@ -161,6 +161,6 @@ doc: web
 	@mkdir -p _build/pdf
 	@mkdir -p _build/odt
 	@mkdir -p _build/docx
-	#@pandoc ementa.rst -o _build/pdf/ementa.pdf
-	#@pandoc ementa.rst -o _build/odt/ementa.odt
-	#@pandoc ementa.rst -o _build/docx/ementa.docx
+	@pandoc ementa.rst -o _build/pdf/ementa.pdf
+	@pandoc ementa.rst -o _build/odt/ementa.odt
+	@pandoc ementa.rst -o _build/docx/ementa.docx
