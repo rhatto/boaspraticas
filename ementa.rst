@@ -1,5 +1,5 @@
-Boas Práticas em Desenvolimento - Ementa
-========================================
+Boas Práticas em Desenvolvimento - Ementa
+=========================================
 
 - Título do curso: Boas Práticas em Desenvolvimento de Software.
 - Professores: Silvio Rhatto.
