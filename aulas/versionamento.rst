@@ -74,6 +74,7 @@ A única exigência é especificar um nome e email (de preferência funcional ;)
 ara constar nas informações de revisão.
 
 ::
+
   git config --global user.name  "Seu Nome"
   git config --global user.email "seu@email"
 
@@ -84,9 +85,10 @@ ara constar nas informações de revisão.
 * Iniciando um projeto no git:
 
 ::
-  mkdir projeto
-  cd projeto
-  git init
+
+    mkdir projeto
+    cd projeto
+    git init
 
 * Pasta ".git" criada no repositório: não polui seu projeto.
 
@@ -96,15 +98,16 @@ ara constar nas informações de revisão.
 * Três estágios de mudanças: cometidas (commited), marcadas para commit (staged) e modificadas (changed).
 
 ::
-  atom README.md    # edite seu arquivo
-  git status
-  git add README.md # em seguida edite mais um pouco
-  git status
-  git diff
-  git commit -m "Primeira revisão"
-  git add README.md # mudanças recentes adicionadas ao estágio de lançamento
-  git commit -m "Segunda revisão"
-  git commit -a -m "Terceira revisão" # coloca todas as mudanças no estágio e comete
+
+    atom README.md    # edite seu arquivo
+    git status
+    git add README.md # em seguida edite mais um pouco
+    git status
+    git diff
+    git commit -m "Primeira revisão"
+    git add README.md # mudanças recentes adicionadas ao estágio de lançamento
+    git commit -m "Segunda revisão"
+    git commit -a -m "Terceira revisão" # coloca todas as mudanças no estágio e comete
 
 Imagens:
 
@@ -121,9 +124,10 @@ Imagens:
 * ID da revisão: hash SHA-1.
 
 ::
-  git log
-  git cola
-  gitk
+
+    git log
+    git cola
+    gitk
 
 Imagens:
 
@@ -136,9 +140,10 @@ Imagens:
 * Você pode fazer um novo commit na unha ou usar o ferramental do git.
 
 ::
-  git commit --amend
-  git revert
-  git rebase
+
+    git commit --amend
+    git revert
+    git rebase
 
 4.5 - Ramificações (branches e merges)
 --------------------------------------
@@ -160,7 +165,7 @@ Imagens:
 -------------------------------------------
 
 4.10 - Github: fazendo um pull request
--------------------------------------
+--------------------------------------
 
 4.11 - Github: sistema de tickets
 ---------------------------------
