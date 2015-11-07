@@ -2,8 +2,10 @@
 ===============================
 
 - Neste curso será adotado o sistema operacional GNU/Linux como plataforma básica de trabalho.
-- Porém, o conteúdo do curso pode ser facilmente adaptado para outros sistemas.
-- Se você usa Windows ou MacOSX para desenvolvimento e quiser seguir normalmente o curso, recomendamos a criação de uma máquina virtual em GNU/Linux usando o Vagrant de acordo com a aula de `DevOps <devops.html>`_.
+- Porém, o conteúdo do curso pode ser facilmente adaptado para outros sistemas, como é o caso do MacOSX.
+- Se você usa Windows, recomendamos:
+  - A criação de uma máquina virtual em GNU/Linux usando o Vagrant de acordo com a aula de `DevOps <devops.html>`_.
+  - Ou o uso do Cygwin juntamente com seu editor de textos favorito.
 
 2.1 - Ambiente básico e a guerra dos editores de texto
 ------------------------------------------------------
@@ -41,7 +43,7 @@
 2.4 - Scripts e templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Scripts de produtividade.
+- Scripts e atalhos de produtividade.
 - Templates de desenvolvimento.
 
 2.5 - Atividades
