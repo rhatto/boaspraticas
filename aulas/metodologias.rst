@@ -140,6 +140,7 @@ Imagens:
     * Que dependa o mínimo de bibliotecas e aplicações externas.
     * Que seja fácil de hospedar em qualquer local, fácil de fazer backup e que possa facilmente ser transformado noutros formatos (livro).
   * Soluções:
+
     * Criar um blog em qualquer lugar e fazer backups na unha? Pouco elegante e não atende a todos os requisitos.
     * Criar um blog em HTML simples e subir manualmente para um servidor? Não, queremos algo entre a web 1.0 e a web contemporânea.
     * Que tal criarmos um blog gerado estaticamente, isto é, um conjunto de arquivos simples de editar e que são compilados num site que possa ser facilmente enviado para um servidor como qualquer outra aplicação web?
@@ -155,9 +156,9 @@ Imagens:
 
 #. Para este curso, definimos o nosso projeto de exemplo como sendo um website/blog bem simples. Você pode fazer o mesmo ou então escolher qualquer projeto que queira fazer usando qualquer linguagem de programação e adaptar as atividades propostas nas aulas seguintes de acordo com o seu caso. Sugerimos apenas que você escolhe um nome para o seu projeto, mesmo que temporário! Mas lembre-se: nomes tem poder! :)
 
-# Pesquise geradores de site estáticos (static site generators). O que você encontrou?
+#. Pesquise geradores de site estáticos (static site generators). O que você encontrou?
 
-# Bônus: pense num nome para seu projeto ou, se preferir, adote o que nós escolhemos.
+#. Bônus: esboce um documento simples de escopo para o seu projeto. Ele pode ser um importante guia nas fases iniciais.
 
 Referências
 -----------
