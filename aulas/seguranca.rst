@@ -18,6 +18,7 @@
 
 * Assinaturas digitais.
 * Comunicação cifrada.
+* Checagem de integridade de código no git e em geral.
 
 6.5 - Certificados x509 para SSL/TLS/HTTPS
 ------------------------------------------

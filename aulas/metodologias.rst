@@ -119,7 +119,7 @@ Queremos:
     - Descrição em alto nível.
 
 - Etapa 1: pesquisa do que já existe: quais projetos abarcam os problemas? No que deixam a desejar?
-- Etapa 2: planejamento inicial: bootstrap, provas de conceito, etc.
+- Etapa 2: planejamento inicial: escolha inicial de metodologias, bootstrap, provas de conceito, etc.
 - Etapa 3: aplicar um conjunto de metodologias mas principalmente *realizar* o projeto.
 
 Imagens:
@@ -146,7 +146,18 @@ Imagens:
     * Que tal criarmos um blog gerado estaticamente, isto é, um conjunto de arquivos simples de editar e que são compilados num site que possa ser facilmente enviado para um servidor como qualquer outra aplicação web?
 
 1. Pesquisa: pesquise pesquise pesquise! O que você encontrou?
-2. Bootstrap: por hora precisamos apenas de um nome e o resto será abordado durante o curso! Curiosamente, nomear um projeto é a etapa mais difícil, mas hoje estamos criativos e chamaremos de "blogático", um blog prático :P
+2. Bootstrap:
+
+   * Precisamos de um nome. Curiosamente, nomear um projeto é a etapa mais difícil, mas hoje estamos criativos e chamaremos de "blogático", um blog prático :P
+   * A metodologia utilizada será o desenvolvimento incremental ao longo deste curso.
+   * Plano inicial para a dominação mundial:
+
+    * Criar o projeto.
+    * Script básico para geração do site.
+    * Aparência e SEO básico do site.
+    * Conteúdo inicial.
+    * Lançamento!
+
 3. Realização: quer ver como o projeto pode ser realizado? Continue com o curso! :P
 
 1.8 - Atividades

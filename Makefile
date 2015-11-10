@@ -165,4 +165,12 @@ doc: web
 	@pandoc ementa.rst -o _build/odt/ementa.odt
 	@pandoc ementa.rst -o _build/docx/ementa.docx
 
+release:
+	@git checkout develop
+	@git commit -a
+	@git checkout master
+	@git merge develop
+	@git checkout develop
+	@git push --all
+
 publish: web web_deploy

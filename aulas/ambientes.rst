@@ -13,6 +13,7 @@
 2.1 - Ambiente básico
 ~~~~~~~~~~~~~~~~~~~~~
 
+- Desktop sem distrações: o que é o mínimo que você precisa?
 - Editor de texto ou IDE: produz código.
 - Emulador de terminal: execução de tarefas.
 - Navegador web: ambiente de teste.
@@ -55,17 +56,26 @@ Roteiro do screencast:
     touch README.md ChangeLog TODO.md
 
 2.4 - Scripts e templates
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
-- Scripts e atalhos de produtividade.
+- Configurações, scripts e atalhos de produtividade.
 - Templates de desenvolvimento.
+- Balanço:
+
+  * Customizações deixam os ambientes sob medida.
+  * Porém tem um custo de criação e de manutenção.
+  * Existem customizações disponíveis e prontas para uso.
 
 2.5 - Atividades
 ----------------
 
 #. Teste diversos editores de textos e IDEs disponíveis para sua plataforma de desenvolvimento. Avalie cada um deles em termos de performance, funcionalidades, facilidade de uso e adaptação. A preferência pela plataforma de desenvolvimento varia muito de pessoa para pessoa: tente descobrir a sua!
 
+#. Crie a prática de avaliar seu fluxo de trabalho e identificar o que mais lhe incomoda: pode ser aquela tecla de atalho incômoda ou mesmo a falta de uma tecla de atalho para uma dada operação. Pode ser a falta de um script para automatizar tarefas repetitivas ou qualquer coisa que tira transfere a concentração do seu trabalho para tarefas operacionais. Como você poderia resolver o problema?
+
 #. Crie uma pasta para o seu projeto.
+
+#. Hora de programar!
 
 Referências
 -----------

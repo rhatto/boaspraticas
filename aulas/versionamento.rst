@@ -96,6 +96,8 @@ Roteiro do screencast:
     git init
 
     # Clonando um projeto existente
+    cd ~/projetos/
+    git clone https://github.com/rhatto/boaspraticas
 
 4.3 - Trabalhando no projeto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -106,7 +108,7 @@ Roteiro do screencast:
 
 ::
 
-    atom README.md    # edite seu arquivo
+    gedit README.md    # edite seu arquivo
     git status
     git add README.md # em seguida edite mais um pouco
     git status
@@ -116,12 +118,21 @@ Roteiro do screencast:
     git commit -m "Segunda revisão"
     git commit -a -m "Terceira revisão" # coloca todas as mudanças no estágio e comete
 
+    # Agora vamos programar um pouco...
+    mkdir bin
+    touch bin/build
+    chmod +x bin/build
+    gedit bin/build
+
 Imagens:
 
 * https://git-scm.com/book/en/v2/book/01-introduction/images/areas.png
 
 4.4 - Git: navegando no histórico
 ---------------------------------
+
+* Entendendo um commit.
+* Tags (etiquetas).
 
 4.4 - Log de revisões
 ~~~~~~~~~~~~~~~~~~~~~

@@ -16,5 +16,10 @@
 6.3 - Inferno de dependências
 -----------------------------
 
-6.4 - Documentação: lendo e escrevendo
+6.4 - Inventando, reinventando e desinventando
+----------------------------------------------
+
+Hora de converter nosso projeto blogático para uma plataforma com mais funcionalidades!
+
+6.5 - Documentação: lendo e escrevendo
 --------------------------------------
