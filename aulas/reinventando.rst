@@ -4,6 +4,7 @@
 6.1 - Patterns
 --------------
 
+* Desacoplamento.
 * Filosofia UNIX:
   * Pequenos softwares/bibliotecas.
   * Que fazem uma coisa bem.

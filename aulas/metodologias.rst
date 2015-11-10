@@ -107,16 +107,57 @@ Queremos:
 1.7 - Começando um projeto
 --------------------------
 
-- Brainstorm! O que é o projeto?
-- Exemplo: um pequeno website.
-- Pesquisa do que já existe.
+1.7 - Etapas
+~~~~~~~~~~~~
+
+- Etapa 0: descoberta, brainstorm e levantamento de escopo!
+
+    - Qual ou quais problemas a serem atacados?
+    - Como definir o projeto e seu escopo? O que é e o que não é?
+    - Quais soluções possíveis? Qual a escolhida?
+    - A ser realizado em conjunto pel equipe de desenvolvimento e quaisquer partes envolvidas (clientes, por exemplo).
+    - Descrição em alto nível.
+
+- Etapa 1: pesquisa do que já existe: quais projetos abarcam os problemas? No que deixam a desejar?
+- Etapa 2: planejamento inicial: bootstrap, provas de conceito, etc.
+- Etapa 3: aplicar um conjunto de metodologias mas principalmente *realizar* o projeto.
+
+Imagens:
+
+* Diagramas jocosos de problema/solução.
+
+1.8 - Projeto de exemplo
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+0. Descoberta:
+ 
+  * Problema: garantir que o aluno, ao concluir este curso, possua um blog simples para relatar suas descobertas em desenvolvimento de software (knowledge base / bagagem de conhecimento pessoal).
+  * Escopo:
+
+    * O blog deve ser construido de acordo com as ferramentas abordadas neste curso.
+    * Quanto mais simples, melhor: fácil de construir e confortável para manter e consultar (afinal, não queremos gastar tempo no futuro mantendo esse projeto).
+    * Que dificilmente se torne tecnologicamente obsoleto: sem base de dados, com o mínimo de programação e formato de edição simples.
+    * Que dependa o mínimo de bibliotecas e aplicações externas.
+    * Que seja fácil de hospedar em qualquer local, fácil de fazer backup e que possa facilmente ser transformado noutros formatos (livro).
+  * Soluções:
+    * Criar um blog em qualquer lugar e fazer backups na unha? Pouco elegante e não atende a todos os requisitos.
+    * Criar um blog em HTML simples e subir manualmente para um servidor? Não, queremos algo entre a web 1.0 e a web contemporânea.
+    * Que tal criarmos um blog gerado estaticamente, isto é, um conjunto de arquivos simples de editar e que são compilados num site que possa ser facilmente enviado para um servidor como qualquer outra aplicação web?
+
+1. Pesquisa: pesquise pesquise pesquise! O que você encontrou?
+2. Bootstrap: por hora precisamos apenas de um nome e o resto será abordado durante o curso! Curiosamente, nomear um projeto é a etapa mais difícil, mas hoje estamos criativos e chamaremos de "blogático", um blog prático :P
+3. Realização: quer ver como o projeto pode ser realizado? Continue com o curso! :P
 
 1.8 - Atividades
 ----------------
 
 #. Adote a técnica Pomodoro numa tarefa grande e importante do seu dia. Você pode usar qualquer cronômetro disponível -- do seu computador, do telefone, do relógio de pulso ou mesmo um timer de cozinha. Permaneça apenas realizando a tarefa importante em cada bloco de 25 minutos. Avalie a eficácia do método: ele te ajudou?
 
-#. Para este curso, definimos o nosso projeto de exemplo como sendo um website bem simples. Você pode fazer o mesmo ou então escolher qualquer projeto que queira fazer usando qualquer linguagem de programação e adaptar as atividades propostas nas aulas seguintes de acordo com o seu caso. Sugerimos apenas que você escolhe um nome para o seu projeto, mesmo que temporário! Mas lembre-se: nomes tem poder! :)
+#. Para este curso, definimos o nosso projeto de exemplo como sendo um website/blog bem simples. Você pode fazer o mesmo ou então escolher qualquer projeto que queira fazer usando qualquer linguagem de programação e adaptar as atividades propostas nas aulas seguintes de acordo com o seu caso. Sugerimos apenas que você escolhe um nome para o seu projeto, mesmo que temporário! Mas lembre-se: nomes tem poder! :)
+
+# Pesquise geradores de site estáticos (static site generators). O que você encontrou?
+
+# Bônus: pense num nome para seu projeto ou, se preferir, adote o que nós escolhemos.
 
 Referências
 -----------

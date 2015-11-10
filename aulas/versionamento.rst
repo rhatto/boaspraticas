@@ -73,8 +73,11 @@ Imagens:
 A única exigência é especificar um nome e email (de preferência funcional ;)
 ara constar nas informações de revisão.
 
+Roteiro do screencast:
+
 ::
 
+  cd ~/projetos/blogatico
   git config --global user.name  "Seu Nome"
   git config --global user.email "seu@email"
 
@@ -82,20 +85,24 @@ ara constar nas informações de revisão.
 ~~~~~~~~~~~~~~~~~~
 
 * Repositórios: "pastas geridas pelo git".
-* Iniciando um projeto no git:
+* Pasta ".git" criada no repositório: não polui seu projeto.
+
+Roteiro do screencast:
 
 ::
 
-    mkdir projeto
-    cd projeto
+    # Adicionando nosso projeto no git
+    cd ~/projetos/blogatico
     git init
 
-* Pasta ".git" criada no repositório: não polui seu projeto.
+    # Clonando um projeto existente
 
 4.3 - Trabalhando no projeto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Três estágios de mudanças: cometidas (commited), marcadas para commit (staged) e modificadas (changed).
+
+Roteiro do screencast:
 
 ::
 
@@ -123,6 +130,8 @@ Imagens:
 * Cada "revisão" do histórico representa um estado do repositório (snapshot).
 * ID da revisão: hash SHA-1.
 
+Roteiro do screencast:
+
 ::
 
     git log
@@ -139,6 +148,8 @@ Imagens:
 
 * Você pode fazer um novo commit na unha ou usar o ferramental do git.
 
+Roteiro do screencast:
+
 ::
 
     git commit --amend
@@ -148,8 +159,38 @@ Imagens:
 4.5 - Ramificações (branches e merges)
 --------------------------------------
 
+* Existem vários "ramos" na história de um software.
+* Os ramos, ou branches, divergem e convergem.
+* A convergência nem sempre é suave, porém o git auxilia com várias estratégias.
+
+Roteiro do screencast:
+
+::
+
+    git branch develop
+    git checkout develop
+    git commit
+    git checkout master
+    git merge develop
+
 4.6 - Usando o git-flow
 -----------------------
+
+* O git-flow é um plugin para o git.
+* Ele força um fluxo de trabalho integrado.
+* Branches básicos (nomes podem ser customizados):
+
+  * master: branch principal com o código que é submetido para a produção.
+  * develop: branch de desenvolvimento onde funcionalidades são integradas e seu conjunto testado.
+  * features/: prefixo para branches onde funcionalidades são desenvolvidas.
+  * hotfix/: prefixo para branches de correções rápidas (bugfixes).
+
+Roteiro do screencast:
+
+::
+
+    git flow init
+    git flow feature start doc
 
 4.7 - Submódulos
 ----------------
@@ -157,6 +198,24 @@ Imagens:
 * Um repositório git dentro de outro.
 * Trava em revisões específicas.
 * "Sistema de empacotamento" simples e integrado ao git.
+
+Roteiro do screencast:
+
+::
+
+    # No repositorio
+    git submodule add https://github.com/dhg/Skeleton skeleton
+    git commit -a -m "Adiciona skeleton"
+
+    # Clonando o repositorio noutro local
+    cd ..
+    git clone projeto projeto-clonado
+    cd projeto-clonado
+    git submodule update --init
+
+    # Ou:
+    cd ..
+    git clone --recursive projeto projeto-clonado
 
 4.8 - Social coding (gitlab, github, etc)
 -----------------------------------------

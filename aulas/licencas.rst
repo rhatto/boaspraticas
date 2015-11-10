@@ -128,6 +128,12 @@ Exemplo: `licença desta documentação </LICENSE.html>`_.
 * Você pode criar sua própria licença!
 * Você pode licenciar o seu trabalho sob múltiplas licenças.
 
+Roteiro do screencast:
+
+::
+
+    wget https://www.gnu.org/licenses/gpl.txt -O LICENSE.txt
+
 3.6 Atividades
 --------------
 

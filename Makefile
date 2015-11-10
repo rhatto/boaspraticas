@@ -164,3 +164,5 @@ doc: web
 	@pandoc ementa.rst -o _build/pdf/ementa.pdf
 	@pandoc ementa.rst -o _build/odt/ementa.odt
 	@pandoc ementa.rst -o _build/docx/ementa.docx
+
+publish: web web_deploy

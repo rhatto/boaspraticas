@@ -40,6 +40,20 @@
 - Organização de pastas.
 - Backups.
 
+Roteiro do screencast:
+
+::
+
+    # Criando uma pasta para projetos
+    mkdir ~/projetos
+
+    # Criando a pasta do nosso projeto
+    mkdir ~/projetos/blogatico
+
+    # Criando a estrutura básica do seu projeto
+    cd ~/projetos/blogatico
+    touch README.md ChangeLog TODO.md
+
 2.4 - Scripts e templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
