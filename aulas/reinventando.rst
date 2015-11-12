@@ -23,3 +23,9 @@ Hora de converter nosso projeto blogático para uma plataforma com mais funciona
 
 6.5 - Documentação: lendo e escrevendo
 --------------------------------------
+
+Roteiro do screencast:
+
+::
+
+  sudo apt-get install ttyrec

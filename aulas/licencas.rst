@@ -132,6 +132,7 @@ Roteiro do screencast:
 
 ::
 
+    cd ~/projetos/blogatico
     wget https://www.gnu.org/licenses/gpl.txt -O LICENSE.txt
 
 3.6 Atividades

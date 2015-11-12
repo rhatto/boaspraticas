@@ -77,9 +77,8 @@ Roteiro do screencast:
 
 ::
 
-  cd ~/projetos/blogatico
-  git config --global user.name  "Seu Nome"
-  git config --global user.email "seu@email"
+    git config --global user.name  "Seu Nome"
+    git config --global user.email "seu@email"
 
 4.3 - Repositórios
 ~~~~~~~~~~~~~~~~~~
@@ -108,7 +107,7 @@ Roteiro do screencast:
 
 ::
 
-    gedit README.md    # edite seu arquivo
+    gedit README.md   # edite seu arquivo
     git status
     git add README.md # em seguida edite mais um pouco
     git status
@@ -145,6 +144,7 @@ Roteiro do screencast:
 
 ::
 
+    cd ~/projetos/blogatico
     git log
     git cola
     gitk
@@ -178,6 +178,7 @@ Roteiro do screencast:
 
 ::
 
+    cd ~/projetos/blogatico
     git branch develop
     git checkout develop
     git commit
@@ -200,6 +201,7 @@ Roteiro do screencast:
 
 ::
 
+    cd ~/projetos/blogatico
     git flow init
     git flow feature start doc
 
@@ -215,6 +217,7 @@ Roteiro do screencast:
 ::
 
     # No repositorio
+    cd ~/projetos/blogatico
     git submodule add https://github.com/dhg/Skeleton skeleton
     git commit -a -m "Adiciona skeleton"
 
@@ -246,6 +249,7 @@ Roteiro do screencast:
 #. Instale o git.
 #. Crie uma conta do `Github <https://github.com>`_ ou no `Gitlab <https://gitlab.com>`_.
 #. Faça um pequeno site com o Skeleton.
+#. Bônus: git log to ChangeLog!
 
 Referências
 -----------
