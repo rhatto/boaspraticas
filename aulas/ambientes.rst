@@ -42,46 +42,78 @@ Roteiro do screncast:
 #. Abrir alguns editores de texto e IDEs e seus sites.
 
 2.2 - Emulador de terminal
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
+
+2.2 - O que é?
+~~~~~~~~~~~~~~
 
 - Despacha comandos textuais.
 - Comandos podem ser automatizados em scripts.
 - Comandos básicos de UNIX usados no curso.
 - Atalhos do terminal (histórico de comandos, limpeza da tela e movimentos do cursor).
-- Shells: bash, zsh, php, python, rvm, node, etc!
+- Shells: bash, zsh, php, python, irb, nodejs, etc!
+
+Roteiro do screencast:
+
+#. Mostrar entrada de comandos no terminal.
+#. Mostrar outros shells.
+
+2.2 - Comandos básicos: navegação
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Roteiro do screencast:
 
 ::
 
+  # Sintaxe de comandos
+  comando [opcoes] <argumento-obrigatorio> [argumento-opcional]
+
   # Navegação
   pwd
-  ls
-  ls /
-  ls ..
-  ls ~
-  cd
-  cd -
   cd ..
+  pwd
+  cd
   cd /
+  cd -
+
+2.2 - Comandos básicos: arquivos e pastas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Roteiro do screencast:
+
+::
 
   # Criando e apagando arquivos e pastas
   touch arquivo
   mkdir pasta
-  rm arquivo
-  rmdir pasta
+
+  # Listando pastas
+  ls
+  ls /
+  ls ..
+  ls ~
 
   # Movendo e copiando arquivos
   cp arquivo pasta
   mv pasta pasta.20151112
-  rm arquivo
 
   # Criando atalhos
   ln pasta.20151112 pasta.latest
   ls -l
 
-  # Procurando ajuda!
-  man ls
+  # Apagando arquivos e pastas
+  rm arquivo
+  rm pasta.20151112
+  rm -r pasta.20151112
+  ls -l
+  rm pasta.latest
+
+2.2 - Comandos básicos: dominando o sistema!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Roteiro do screencast:
+
+::
 
   # Quem sou eu?
   whoami
@@ -90,7 +122,27 @@ Roteiro do screencast:
   sudo whoami
 
   # Instalando um programa
-  sudo apt-get install git
+  sudo apt-get install tree
+
+  # Sistema de arquivos
+  tree
+  tree /
+  tree -d /
+
+  # Entrada e saida padrao
+  tree -d / > saida.log
+  less saida.log
+
+  # Dutos
+  tree -d / | less
+
+  # Processos
+  ps
+  ps -A
+  pstree | less
+
+  # Procurando ajuda!
+  man ls
 
 2.3 - Fluxo de trabalho
 -----------------------
@@ -98,6 +150,7 @@ Roteiro do screencast:
 2.3 - Básico
 ~~~~~~~~~~~~
 
+- Seu desktop funciona como uma bancada de trabalho: mantenha-o sempre arrumado, limpando a sujeira toda a vez que finalizar um trabalho.
 - Diário de bordo: de um arquivo de texto a um blog sobre desenvolvimento (o próprio blogático, no nosso caso!).
 - Organização de pastas.
 - Backups.
@@ -123,16 +176,16 @@ Roteiro do screencast:
 
 ::
 
-    # Criando a estrutura básica do seu projeto
-    cd ~/projetos/blogatico
-    touch README.md ChangeLog TODO.md
+  # Criando a estrutura básica do seu projeto
+  cd ~/projetos/blogatico
+  touch README.md ChangeLog TODO.md
+  gedit README.md
 
 2.3 - Sistemas de tickets (tarefas)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Kanban.
 * Arquivo TODO em formatos plaintext, Markdown, etc.
-* Um arquivo por tarefa em pastas `open` e `closed`.
 * Taskwarrior ou similar.
 * Aplicação própria (Trac, etc)
 * TODOs and FIXMEs ao longo do código (em última instância).
@@ -141,7 +194,7 @@ Roteiro do screncast:
 
 ::
 
-    gedit README.md TODO.md
+  gedit TODO.md
 
 Imagens:
 
@@ -167,13 +220,23 @@ Roteiro do screencast:
   touch bin/build
 
   # Não funciona sem permissão de execução!
-  ./bin/build
+  exec bin/build
 
   # Agora vai!
   chmod +x bin/build
+  exec bin/build
   ./bin/build
 
+  # Editando
   gedit bin/build
+
+  # Criando o conteúdo inicial
+  mkdir www
+  cd www
+  touch index.md
+
+  # Testando!
+  ../bin/build
 
 2.4 - Atividades
 ----------------
@@ -191,3 +254,5 @@ Referências
 
 - `Atom <https://atom.io/>`_.
 - `Lime Text Editor <http://limetext.org/>`_.
+- `Guia Foca Linux – Site Oficial | Site oficial do guia Foca GNU/Linux, baixe gratuitamente! <http://www.guiafoca.org/>`_.
+- `jgm/pandoc-templates · GitHub <https://github.com/jgm/pandoc-templates>`_.

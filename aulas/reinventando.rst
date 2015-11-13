@@ -4,6 +4,7 @@
 6.1 - Patterns
 --------------
 
+* Separando código de dados.
 * Desacoplamento.
 * Filosofia UNIX:
   * Pequenos softwares/bibliotecas.

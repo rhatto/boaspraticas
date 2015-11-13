@@ -77,8 +77,9 @@ Roteiro do screencast:
 
 ::
 
-    git config --global user.name  "Seu Nome"
-    git config --global user.email "seu@email"
+  sudo apt-get install git
+  git config --global user.name  "Meu Nome"
+  git config --global user.email "meu@email.tld"
 
 4.3 - Repositórios
 ~~~~~~~~~~~~~~~~~~
@@ -90,13 +91,13 @@ Roteiro do screencast:
 
 ::
 
-    # Adicionando nosso projeto no git
-    cd ~/projetos/blogatico
-    git init
+  # Adicionando nosso projeto no git
+  cd ~/projetos/blogatico
+  git init
 
-    # Clonando um projeto existente
-    cd ~/projetos/
-    git clone https://github.com/rhatto/boaspraticas
+  # Clonando um projeto existente
+  cd ~/projetos/
+  git clone https://github.com/rhatto/boaspraticas
 
 4.3 - Trabalhando no projeto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,21 +108,22 @@ Roteiro do screencast:
 
 ::
 
-    gedit README.md   # edite seu arquivo
-    git status
-    git add README.md # em seguida edite mais um pouco
-    git status
-    git diff
-    git commit -m "Primeira revisão"
-    git add README.md # mudanças recentes adicionadas ao estágio de lançamento
-    git commit -m "Segunda revisão"
-    git commit -a -m "Terceira revisão" # coloca todas as mudanças no estágio e comete
+  cd ~/projetos/blogatico
+  gedit README.md   # edite seu arquivo
+  git status
+  git add README.md # em seguida edite mais um pouco
+  git status
+  git diff
+  git commit -m "Primeira revisão"
+  git add README.md # mudanças recentes adicionadas ao estágio de lançamento
+  git commit -m "Segunda revisão"
+  git commit -a -m "Terceira revisão" # coloca todas as mudanças no estágio e comete
 
-    # Agora vamos programar um pouco...
-    mkdir bin
-    touch bin/build
-    chmod +x bin/build
-    gedit bin/build
+  # Agora vamos programar um pouco...
+  mkdir bin
+  touch bin/build
+  chmod +x bin/build
+  gedit bin/build
 
 Imagens:
 
@@ -144,10 +146,10 @@ Roteiro do screencast:
 
 ::
 
-    cd ~/projetos/blogatico
-    git log
-    git cola
-    gitk
+  cd ~/projetos/blogatico
+  git log
+  git cola
+  gitk
 
 Imagens:
 
@@ -163,9 +165,9 @@ Roteiro do screencast:
 
 ::
 
-    git commit --amend
-    git revert
-    git rebase
+  git commit --amend
+  git revert
+  git rebase
 
 4.5 - Ramificações (branches e merges)
 --------------------------------------
@@ -178,12 +180,12 @@ Roteiro do screencast:
 
 ::
 
-    cd ~/projetos/blogatico
-    git branch develop
-    git checkout develop
-    git commit
-    git checkout master
-    git merge develop
+  cd ~/projetos/blogatico
+  git branch develop
+  git checkout develop
+  git commit
+  git checkout master
+  git merge develop
 
 4.6 - Usando o git-flow
 -----------------------
@@ -201,9 +203,9 @@ Roteiro do screencast:
 
 ::
 
-    cd ~/projetos/blogatico
-    git flow init
-    git flow feature start doc
+  cd ~/projetos/blogatico
+  git flow init
+  git flow feature start doc
 
 4.7 - Submódulos
 ----------------
@@ -216,20 +218,20 @@ Roteiro do screencast:
 
 ::
 
-    # No repositorio
-    cd ~/projetos/blogatico
-    git submodule add https://github.com/dhg/Skeleton skeleton
-    git commit -a -m "Adiciona skeleton"
+  # No repositorio
+  cd ~/projetos/blogatico
+  git submodule add https://github.com/dhg/Skeleton skeleton
+  git commit -a -m "Adiciona skeleton"
 
-    # Clonando o repositorio noutro local
-    cd ..
-    git clone projeto projeto-clonado
-    cd projeto-clonado
-    git submodule update --init
+  # Clonando o repositorio noutro local
+  cd ..
+  git clone projeto projeto-clonado
+  cd projeto-clonado
+  git submodule update --init
 
-    # Ou:
-    cd ..
-    git clone --recursive projeto projeto-clonado
+  # Ou:
+  cd ..
+  git clone --recursive projeto projeto-clonado
 
 4.8 - Social coding (gitlab, github, etc)
 -----------------------------------------
