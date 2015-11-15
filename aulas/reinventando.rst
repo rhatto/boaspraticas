@@ -14,6 +14,8 @@
 6.2 - Antipatterns
 ------------------
 
+* Linearidade: o mito da pessoa-mês (Lei de Brooks).
+
 6.3 - Inferno de dependências
 -----------------------------
 
@@ -30,3 +32,8 @@ Roteiro do screencast:
 ::
 
   sudo apt-get install ttyrec
+
+6.7 - Referências
+-----------------
+
+* `Versionamento Semântico 2.0.0 <http://semver.org/lang/pt-BR/>`_.

@@ -20,15 +20,24 @@
 - Foco em Software Livre e Aberto (FOSS).
 - Experimente diversas metodologias, técnicas e ferramentas e monte seu próprio kit!
 
-1.2 - Mitos e verdades do desenvolvimento
------------------------------------------
+Imagens:
 
-- Dificuldades essenciais e acidentais.
-- Linearidade: pessoa-mês (Lei de Brooks).
-- Métricas: dificuldade de se estimar o tempo gasto.
-- Deterioramento natural do software!
+* https://upload.wikimedia.org/wikipedia/commons/7/7c/Yin_and_Yang.svg
+* https://www.gnu.org/graphics/meditate.en.html
 
-1.3 - Metodologias pessoais
+Link:
+
+* https://www.youtube.com/watch?v=2FQU0WeGSEM
+
+1.1 - O problema fundamental
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* O processo criativo não é linear e difícil de colocá-lo numa metodologia de trabalho.
+* Muitos métodos tentam dominar e formatar o fluxo natural de atividades.
+* Queremos técnicas e ferramentas que reduzam o ruído no trabalho, mas que não acarretem na perda de liberdade criativa.
+* Dificuldades essenciais e acidentais (Aristóteles).
+
+1.2 - Metodologias pessoais
 ---------------------------
 
 Queremos evitar:
@@ -40,10 +49,10 @@ Queremos evitar:
 
 Queremos:
 
-- Simplicidade sem comprometer funcionalidade (KISS).
-- Excelência (melhoria incremental) ao invés de perfeccionismo obssessivo.
+- Simplicidade sem perda de qualidade (KISS).
+- Excelência (melhoria incremental) ao invés de perfeccionismo obsessivo.
 
-1.3 - Metodologias pessoais - Básico
+1.2 - Metodologias pessoais - Básico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Fundamental: fazer fluir a criatividade.
@@ -52,8 +61,9 @@ Queremos:
 - Foco na missão.
 - Fazer o essencial.
 - Método não é lei, é sugestão de caminho. Você descobriu que é multi-tarefas e funciona melhor assim? Ok! :)
+- Mude seus hábitos aos poucos!
 
-1.3 - Metodologias pessoais - Pomodoro
+1.2 - Metodologias pessoais - Pomodoro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 É uma técnica simples para execução de tarefas:
@@ -65,10 +75,14 @@ Queremos:
 - Pare por um tempo curto (5 minutos, por exemplo).
 - Depois de 4 pomodoros, faça uma pausa mais longa (15 a 30 minutos).
 
-1.4 - Metodologias pessoais - Get Things Done (GTD)
+Imagem:
+
+* `Cronômetro do pomodoro <https://en.wikipedia.org/wiki/Pomodoro_Technique#/media/File:Il_pomodoro.jpg>`_.
+
+1.3 - Metodologias pessoais - Get Things Done (GTD)
 ---------------------------------------------------
 
-É uma técnica para organização do fluxo de tarefas:
+É uma técnica para organização de tarefas / vida.
 
 - Colete: apareceu na sua frente? Coloque para fora da cabeça!
 - Processe.
@@ -77,25 +91,26 @@ Queremos:
 - Faça!
 - Workflow: https://en.wikipedia.org/wiki/Getting_Things_Done#/media/File:GTDcanonical.png
 
-1.5 - Metodologias pessoais - Zen to Done (ZTD)
+1.4 - Metodologias pessoais - Zen to Done (ZTD)
 -----------------------------------------------
 
-- ZTD é um GTD simplificado e mais estruturado.
+ZTD é um GTD simplificado e mais estruturado:
+
 - Tenha uma rotina.
 - Reduza as suas tarefas ao essencial.
 - Comece o dia realizando as tarefas importantes. Não se perca.
 - Sugestão do chef: ZTD com Pomodoro!
 
-1.6 - Metodologias em equipe
+1.5 - Metodologias em equipe
 ----------------------------
 
-1.6 - A Catedral e o Bazar
+1.5 - A Catedral e o Bazar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Eficiência do código aberto.
 - Agile: conjunto de princípios.
 
-1.6 - Metodologias populares
+1.5 - Metodologias populares
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Scrum: metodologia de gerenciamento de projetos.
@@ -104,10 +119,10 @@ Queremos:
 - TDD: técnica de desenvolvimento guiada por testes.
 - Híbridação: Scrumban + XP :D
 
-1.7 - Começando um projeto
+1.6 - Começando um projeto
 --------------------------
 
-1.7 - Etapas
+1.6 - Etapas
 ~~~~~~~~~~~~
 
 - Etapa 0: descoberta, brainstorm e levantamento de escopo!
@@ -115,10 +130,10 @@ Queremos:
     - Qual ou quais problemas a serem atacados?
     - Como definir o projeto e seu escopo? O que é e o que não é?
     - Quais soluções possíveis? Qual a escolhida?
-    - A ser realizado em conjunto pel equipe de desenvolvimento e quaisquer partes envolvidas (clientes, por exemplo).
+    - A ser realizado em conjunto pela equipe de desenvolvimento e quaisquer partes envolvidas (clientes, por exemplo).
     - Descrição em alto nível.
 
-- Etapa 1: pesquisa do que já existe: quais projetos abarcam os problemas? No que deixam a desejar?
+- Etapa 1: pesquisa do que já existe: quais soluções abarcam os problemas formulados? No que deixam a desejar?
 - Etapa 2: planejamento inicial: escolha inicial de metodologias, bootstrap, provas de conceito, etc.
 - Etapa 3: aplicar um conjunto de metodologias mas principalmente *realizar* o projeto.
 
@@ -126,7 +141,7 @@ Imagens:
 
 * Diagramas jocosos de problema/solução.
 
-1.8 - Projeto de exemplo
+1.7 - Projeto de exemplo
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 0. Descoberta:
@@ -143,7 +158,7 @@ Imagens:
 
     * Criar um blog em qualquer lugar e fazer backups na unha? Pouco elegante e não atende a todos os requisitos.
     * Criar um blog em HTML simples e subir manualmente para um servidor? Não, queremos algo entre a web 1.0 e a web contemporânea.
-    * Que tal criarmos um blog gerado estaticamente, isto é, um conjunto de arquivos simples de editar e que são compilados num site que possa ser facilmente enviado para um servidor como qualquer outra aplicação web?
+    * Que tal criarmos um blog gerado estaticamente, isto é, um conjunto de arquivos simples de editar e que são compilados para o formato de site que possa ser facilmente enviado para um servidor como qualquer outra aplicação web?
 
 1. Pesquisa: pesquise pesquise pesquise! O que você encontrou?
 2. Bootstrap:
@@ -167,12 +182,10 @@ Imagens:
 
 #. Para este curso, definimos o nosso projeto de exemplo como sendo um website/blog bem simples. Você pode fazer o mesmo ou então escolher qualquer projeto que queira fazer usando qualquer linguagem de programação e adaptar as atividades propostas nas aulas seguintes de acordo com o seu caso. Sugerimos apenas que você escolhe um nome para o seu projeto, mesmo que temporário! Mas lembre-se: nomes tem poder! :)
 
-#. Pesquise geradores de site estáticos (static site generators). O que você encontrou?
-
 #. Bônus: esboce um documento simples de escopo para o seu projeto. Ele pode ser um importante guia nas fases iniciais.
 
-Referências
------------
+1.9 Referências
+---------------
 
 - `Best coding practices - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Best_coding_practices>`_.
 - `Best practices for software development projects <http://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks2.html>`_.
@@ -190,3 +203,7 @@ Referências
 - `Manifesto para o desenvolvimento ágil de software <http://www.manifestoagil.com.br/>`_.
 - https://www.mountaingoatsoftware.com/blog/differences-between-scrum-and-extreme-programming
 - http://manifesto.co.uk/kanban-vs-scrum-vs-xp-an-agile-comparison/
+- `Zen e a Arte de Manutenção de Motocicletas <https://pedropeixotoferreira.files.wordpress.com/2014/03/robert-pirsig-zen-e-a-arte-da-manutenc3a7c3a3o-de-motocicletas.pdf>`_.
+- `O Tao da programação <http://www.geocities.ws/worgtal/2002/tao.pdf>`_.
+- `Top Open-Source Static Site Generators - StaticGen <https://www.staticgen.com/>`_.
+- `principles - IndieWebCamp <https://indiewebcamp.com/Principles>`_.

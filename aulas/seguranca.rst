@@ -5,7 +5,9 @@
 -----------------------------------------
 
 * Criptografia é só uma parte das práticas seguras.
-* Testes de penetração: inverta os papéis: e se você fosse o/a atacante?
+* Modelagem de ameaças e testes de penetração: inverta os papéis: e se você fosse o/a atacante?
+* A dificuldade de se encontrar vulnerabilidades.
+* Segurança por isolamento.
 
 6.2 - Use bibliotecas consolidadas!
 -----------------------------------

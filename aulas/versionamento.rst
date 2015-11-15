@@ -4,20 +4,21 @@
 4.1 - O que é? Pra que serve?
 -----------------------------
 
-Tópicos:
-
 * Salvar o estado do código em revisões sequenciais.
 * Integrar o trabalho do time.
 * Acompanhar as mudanças no código (encontrar bugs, rollback, etc).
-* Boa prática: versionando desde o dia 0.
 * Ajuda, mas não resolve conflitos na edição de arquivos.
+* Boa prática: versionando desde o dia 0.
 
 Imagens:
 
 * https://git-scm.com/book/en/v2/book/01-introduction/images/local.png
 
+4.2 - Sistemas de controle de versão
+------------------------------------
+
 4.2 - Quais sistemas existem?
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tópicos:
 
@@ -31,16 +32,16 @@ Imagens:
 * Ícones e screenshots do site de cada sistema.
 
 4.2 - Centralizados versus distribuídos
----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tópicos:
 
-* Centralizado:
+* Centralizadaso:
 
   * Repositório central para onde são enviadas mudanças.
   * Ou seja, existe uma cópia de referência.
 
-* Distribuído:
+* Distribuídos:
 
   * Cada cópia de trabalho é um repositório completo e possui todo o histórico de revisões (também uma forma de backup).
   * Não requer um repositório central, porém um ponto de trocas central pode ser estipulado entre os desenvolvedores/as.
@@ -61,17 +62,12 @@ Imagens:
 * Complexo e poderoso, porém pode ser usado de modo simples.
 * Checagem de integridade nativa!
 
-4.3 - Instalando
-~~~~~~~~~~~~~~~~
+4.3 - Instalando e configurando
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Focaremos em git pela linha de comando.
 * Disponível em tudo que é tipo de sistema operacional.
-
-4.3 - Configurando
-~~~~~~~~~~~~~~~~~~
-
-A única exigência é especificar um nome e email (de preferência funcional ;)
-ara constar nas informações de revisão.
+* A única exigência é especificar um nome e email (de preferência funcional ;) para constar nas informações de revisão.
 
 Roteiro do screencast:
 
@@ -99,7 +95,10 @@ Roteiro do screencast:
   cd ~/projetos/
   git clone https://github.com/rhatto/boaspraticas
 
-4.3 - Trabalhando no projeto
+4.4 - Trabalhando no projeto
+----------------------------
+
+4.4 - Trabalhando no projeto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Três estágios de mudanças: cometidas (commited), marcadas para commit (staged) e modificadas (changed).
@@ -109,31 +108,21 @@ Roteiro do screencast:
 ::
 
   cd ~/projetos/blogatico
-  gedit README.md   # edite seu arquivo
   git status
-  git add README.md # em seguida edite mais um pouco
+  git add README.md
+  git status
+  gedit README.md
   git status
   git diff
   git commit -m "Primeira revisão"
   git add README.md # mudanças recentes adicionadas ao estágio de lançamento
   git commit -m "Segunda revisão"
-  git commit -a -m "Terceira revisão" # coloca todas as mudanças no estágio e comete
-
-  # Agora vamos programar um pouco...
-  mkdir bin
-  touch bin/build
-  chmod +x bin/build
-  gedit bin/build
+  git add .
+  git commit -m "Adiciona demais arquivos" # coloca todas as mudanças no estágio e comete
 
 Imagens:
 
 * https://git-scm.com/book/en/v2/book/01-introduction/images/areas.png
-
-4.4 - Git: navegando no histórico
----------------------------------
-
-* Entendendo um commit.
-* Tags (etiquetas).
 
 4.4 - Log de revisões
 ~~~~~~~~~~~~~~~~~~~~~
@@ -148,7 +137,7 @@ Roteiro do screencast:
 
   cd ~/projetos/blogatico
   git log
-  git cola
+  sudo apt-get install gitk
   gitk
 
 Imagens:
@@ -156,18 +145,15 @@ Imagens:
 * https://git-cola.github.io/images/screenshot-main-linux.png
 * https://static.lwn.net/images/ns/kernel/gitk.png
 
-4.4 - Revertendo uma mudança
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* Você pode fazer um novo commit na unha ou usar o ferramental do git.
+4.4 - Interface gráfica
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Roteiro do screencast:
 
 ::
 
-  git commit --amend
-  git revert
-  git rebase
+  sudo apt-get install git-cola
+  git cola
 
 4.5 - Ramificações (branches e merges)
 --------------------------------------
@@ -183,7 +169,7 @@ Roteiro do screencast:
   cd ~/projetos/blogatico
   git branch develop
   git checkout develop
-  git commit
+  git commit -a
   git checkout master
   git merge develop
 
@@ -206,13 +192,15 @@ Roteiro do screencast:
   cd ~/projetos/blogatico
   git flow init
   git flow feature start doc
+  git commit -a
+  git flow feature finish
 
 4.7 - Submódulos
 ----------------
 
 * Um repositório git dentro de outro.
-* Trava em revisões específicas.
-* "Sistema de empacotamento" simples e integrado ao git.
+* "Trava" o submódulo em revisões específicas.
+* "Sistema" de gestão de dependências de código simples e integrado ao git.
 
 Roteiro do screencast:
 
@@ -225,8 +213,8 @@ Roteiro do screencast:
 
   # Clonando o repositorio noutro local
   cd ..
-  git clone projeto projeto-clonado
-  cd projeto-clonado
+  git clone blogatico blogatico-clonado
+  cd blogatico-clonado
   git submodule update --init
 
   # Ou:
@@ -253,12 +241,11 @@ Roteiro do screencast:
 #. Faça um pequeno site com o Skeleton.
 #. Bônus: git log to ChangeLog!
 
-Referências
------------
+4.13 - Referências
+------------------
 
+* `Instalando Git <https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git>`_.
+* `Curso Básico de Git - RBtech <https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0>`_.
 * `cheatsheet do git-flow <https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html>`_.
 * `Skeleton: Responsive CSS Boilerplate <http://getskeleton.com/>`_
-* `Versionamento Semântico 2.0.0 <http://semver.org/lang/pt-BR/>`_.
-* `Curso Básico de Git - RBtech <https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0>`_.
-* `Instalando Git <https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git>`_.
 * `git-cola: The highly caffeinated Git GUI <https://git-cola.github.io/>`_

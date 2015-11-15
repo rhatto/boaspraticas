@@ -13,10 +13,17 @@
   - A criação de uma máquina virtual em GNU/Linux usando o Vagrant de acordo com a aula de `DevOps <devops.html>`_.
   - Ou o uso do Cygwin juntamente com seu editor de textos favorito.
 
+2.2 - Adote o GNU/Linux
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Além de ser livre, o GNU/Linux é um ambiente natural para desenvolvimento.
+* Você não precisa largar de vez seu sistema operacional. Vá aos poucos, começando com uma imagem live.
+* Sugestões: Debian GNU Linux e Ubuntu.
+
 2.1 - O essencial
 ~~~~~~~~~~~~~~~~~
 
-Desktop sem distrações: o que é o mínimo que você precisa?
+Desktop sem distrações: o que é o mínimo que você precisa? No nosso caso, usaremos basicamente:
 
 - Editor de texto ou IDE: produz código.
 - Emulador de terminal: execução de tarefas.
@@ -150,7 +157,7 @@ Roteiro do screencast:
 2.3 - Básico
 ~~~~~~~~~~~~
 
-- Seu desktop funciona como uma bancada de trabalho: mantenha-o sempre arrumado, limpando a sujeira toda a vez que finalizar um trabalho.
+- Seu desktop funciona como uma bancada de trabalho: mantenha-o sempre arrumado, limpando a sujeira toda a vez que finalizar uma tarefa.
 - Diário de bordo: de um arquivo de texto a um blog sobre desenvolvimento (o próprio blogático, no nosso caso!).
 - Organização de pastas.
 - Backups.
@@ -181,8 +188,14 @@ Roteiro do screencast:
   touch README.md ChangeLog TODO.md
   gedit README.md
 
-2.3 - Sistemas de tickets (tarefas)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2.3 - Markdown e texto estruturado
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Convenções de formatação para arquivos de texto simples.
+* Podem ser facilmente convertidos para outros formatos (html, pdf, epub, por exemplo).
+
+2.3 - Gestão de tarefas (tickets)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Kanban.
 * Arquivo TODO em formatos plaintext, Markdown, etc.
@@ -199,6 +212,7 @@ Roteiro do screncast:
 Imagens:
 
 * Diversos sistemas de tickets.
+* https://en.wikipedia.org/wiki/Kanban_board#/media/File:Simple-kanban-board-.jpg
 
 2.3 - Scripts e templates
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -247,12 +261,8 @@ Roteiro do screencast:
 
 #. Crie uma pasta para o seu projeto.
 
-#. Hora de programar!
+2.5 Referências
+---------------
 
-Referências
------------
-
-- `Atom <https://atom.io/>`_.
-- `Lime Text Editor <http://limetext.org/>`_.
-- `Guia Foca Linux – Site Oficial | Site oficial do guia Foca GNU/Linux, baixe gratuitamente! <http://www.guiafoca.org/>`_.
-- `jgm/pandoc-templates · GitHub <https://github.com/jgm/pandoc-templates>`_.
+- `Guia Foca Linux <http://www.guiafoca.org/>`_.
+- `Solarized - Ethan Schoonover <http://ethanschoonover.com/solarized>`_.

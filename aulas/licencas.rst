@@ -1,5 +1,5 @@
-3. Licenciamento
-================
+3. Licenciamento de software
+============================
 
 3.1 - O que é e por quê licenciar?
 ----------------------------------
@@ -27,6 +27,10 @@
 * Permite sublicenciamento.
 * Exemplos de software sob esta licença: Ruby on Rails, Node.js e jQuery. 
 
+Imagens:
+
+* Licença MIT.
+
 3.2 - Estilo BSD
 ~~~~~~~~~~~~~~~~
 
@@ -38,12 +42,16 @@
   * Desde que o nome dos/as autores não seja usado para promover produtos derivados.
   * Mas exime autores(as) de quaisquer responsabilidade advindas do software.
 
+Imagens:
+
+* Licença BSD.
+
 3.2 - Vantagens e desvantagens
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vantagens:
 
-* Facilmente legível (licenças pequenas).
+* Facilmente legíveis (licenças pequenas).
 * Flexibilidade: aderência a modelos de negócios.
 
 Desvantagens:
@@ -57,10 +65,10 @@ Desvantagens:
 3.3 - Histórico
 ---------------
 
-* Custom crescente e comodificação do software.
+* Custo crescente e comodificação do software.
 * Ameaça ao "commons" hacker.
 * Free Software Foundation.
-* Licença copyleft "viral": garante as liberdades
+* Licença copyleft "viral": garante as liberdades.
 
 3.3 Quatro liberdades do software livre
 ---------------------------------------
@@ -77,7 +85,7 @@ Exemplo: `licença desta documentação </LICENSE.html>`_.
 
 * GNU GPL: licença padrão.
 * GNU FDL: para documentação.
-* GNU Affero: requer o fornecimento de código fonte.
+* GNU Affero GPL: requer a disponibilização de código fonte por quem roda o software.
 
 3.3 - Open Source versus Free Software
 --------------------------------------
@@ -95,7 +103,7 @@ Exemplo: `licença desta documentação </LICENSE.html>`_.
 
   * Atribuição.
   * Compartilhamento sob a mesma licença.
-  * (Não-)comercial.
+  * Se o trabalho é comercial ou não.
   * Permite ou não trabalhos derivados.
 
 3.5 - Outras licenças
@@ -120,7 +128,7 @@ Exemplo: `licença desta documentação </LICENSE.html>`_.
 3.6 - Licenciando o seu trabalho
 --------------------------------
 
-3.5 - Escolhendo a licença
+3.6 - Escolhendo a licença
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Compatibilidade entre licençar (distribuição e linkagem).
@@ -135,8 +143,8 @@ Roteiro do screencast:
     cd ~/projetos/blogatico
     wget https://www.gnu.org/licenses/gpl.txt -O LICENSE.txt
 
-3.6 Atividades
---------------
+3.7 - Atividades
+----------------
 
 #. Escolha uma licença para o seu projeto.
 
@@ -144,8 +152,8 @@ Roteiro do screencast:
 
 #. Bônus: escreva uma pequena licença de software. Isso pode lhe ajudar a entender melhor o que você acha importante numa licença.
 
-Referências
------------
+3.8 - Referências
+-----------------
 
 * `TLDRLegal <https://tldrlegal.com>`_.
 * `Open Source Initiative <http://opensource.org/>`_.
