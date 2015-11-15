@@ -79,8 +79,8 @@ Imagem:
 
 * `Cronômetro do pomodoro <https://en.wikipedia.org/wiki/Pomodoro_Technique#/media/File:Il_pomodoro.jpg>`_.
 
-1.3 - Metodologias pessoais - Get Things Done (GTD)
----------------------------------------------------
+1.3 - Get Things Done (GTD)
+---------------------------
 
 É uma técnica para organização de tarefas / vida.
 
@@ -91,8 +91,8 @@ Imagem:
 - Faça!
 - Workflow: https://en.wikipedia.org/wiki/Getting_Things_Done#/media/File:GTDcanonical.png
 
-1.4 - Metodologias pessoais - Zen to Done (ZTD)
------------------------------------------------
+1.4 - Zen to Done (ZTD)
+-----------------------
 
 ZTD é um GTD simplificado e mais estruturado:
 

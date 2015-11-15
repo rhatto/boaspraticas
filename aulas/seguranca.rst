@@ -9,13 +9,20 @@
 * A dificuldade de se encontrar vulnerabilidades.
 * Segurança por isolamento.
 
-6.2 - Use bibliotecas consolidadas!
------------------------------------
+6.2 - Use bibliotecas criptográficas consolidadas!
+--------------------------------------------------
+
+* Erros de implementação são grandes fontes de brechas de segurança.
+* Caso você precise implementar primitivas criptográficas no seu código, use bibliotecas existentes!
+* Encapsule as conexões das suas aplicações em canais criptografados.
+* TLS é o protocolo mais consolidado e adequado, apesar de não ser perfeito.
 
 6.3 - Princípio das permissões mínimas
 --------------------------------------
 
-* Permissões de arquivos são propriedades no sistema de arquivo! Elas não são necessariamente preservadas com a cópia de arquivos entre sistemas!
+* Exemplo básico.
+* Permissões de arquivos são propriedades no sistema de arquivo!
+* Elas não são necessariamente preservadas com a cópia de arquivos entre sistemas!
 
 Roteiro do screencast:
 

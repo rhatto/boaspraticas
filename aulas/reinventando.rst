@@ -4,7 +4,7 @@
 6.1 - Patterns
 --------------
 
-* Separando código de dados.
+* Separando código de dados, sobretudo dados sigilosos!
 * Desacoplamento.
 * Filosofia UNIX:
   * Pequenos softwares/bibliotecas.
@@ -15,9 +15,7 @@
 ------------------
 
 * Linearidade: o mito da pessoa-mês (Lei de Brooks).
-
-6.3 - Inferno de dependências
------------------------------
+* Inferno de dependências
 
 6.4 - Inventando, reinventando e desinventando
 ----------------------------------------------

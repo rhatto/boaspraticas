@@ -70,8 +70,8 @@ Desvantagens:
 * Free Software Foundation.
 * Licença copyleft "viral": garante as liberdades.
 
-3.3 Quatro liberdades do software livre
----------------------------------------
+3.3 - Quatro liberdades do software livre
+-----------------------------------------
 
 * 0. Rodar.
 * 1. Estudar.

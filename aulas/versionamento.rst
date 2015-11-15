@@ -230,10 +230,7 @@ Roteiro do screencast:
 4.10 - Github: fazendo um pull request
 --------------------------------------
 
-4.11 - Github: sistema de tickets
----------------------------------
-
-4.12 - Atividades
+4.11 - Atividades
 -----------------
 
 #. Instale o git.
@@ -241,7 +238,7 @@ Roteiro do screencast:
 #. Faça um pequeno site com o Skeleton.
 #. Bônus: git log to ChangeLog!
 
-4.13 - Referências
+4.12 - Referências
 ------------------
 
 * `Instalando Git <https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git>`_.
