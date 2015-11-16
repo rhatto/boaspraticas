@@ -109,13 +109,13 @@ Roteiro do screencast:
 
   cd ~/projetos/blogatico
   git status
-  git add README.md
+  git add README.mdwn
   git status
-  gedit README.md
+  gedit README.mdwn
   git status
   git diff
   git commit -m "Primeira revisão"
-  git add README.md # mudanças recentes adicionadas ao estágio de lançamento
+  git add README.mdwn # mudanças recentes adicionadas ao estágio de lançamento
   git commit -m "Segunda revisão"
   git add .
   git commit -m "Adiciona demais arquivos" # coloca todas as mudanças no estágio e comete

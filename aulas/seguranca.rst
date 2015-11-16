@@ -7,7 +7,7 @@
 * Criptografia é só uma parte das práticas seguras.
 * Modelagem de ameaças e testes de penetração: inverta os papéis: e se você fosse o/a atacante?
 * A dificuldade de se encontrar vulnerabilidades.
-* Segurança por isolamento.
+* Segurança por isolamento ajuda, mas botar a aplicação dentro de um cordão sanitário protege mais o ambiente de hospedagem do que a aplicação.
 
 6.2 - Use bibliotecas criptográficas consolidadas!
 --------------------------------------------------
@@ -20,7 +20,7 @@
 6.3 - Princípio das permissões mínimas
 --------------------------------------
 
-* Exemplo básico.
+* Comece o desenvolvimento com o mínimo de permissões necessárias para a sua aplicação e libere o acesso conforme necessário.
 * Permissões de arquivos são propriedades no sistema de arquivo!
 * Elas não são necessariamente preservadas com a cópia de arquivos entre sistemas!
 

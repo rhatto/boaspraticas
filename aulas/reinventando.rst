@@ -1,7 +1,7 @@
 7. Quando (não) reinventar a roda
 =================================
 
-6.1 - Patterns
+7.1 - Patterns
 --------------
 
 * Separando código de dados, sobretudo dados sigilosos!
@@ -11,20 +11,32 @@
   * Que fazem uma coisa bem.
   * E que podem ser facilmente combinados.
 
-6.2 - Antipatterns
+7.2 - Antipatterns
 ------------------
 
 * Hype: cuidado com o ciclo dos modismos!
 * Linearidade: o mito da pessoa-mês (Lei de Brooks).
-* Inferno de dependências
+* Inferno de dependências.
+* Bitrot: decaimento natural do código!
 
-6.4 - Inventando, reinventando e desinventando
+7.3 - Inventando, reinventando e desinventando
 ----------------------------------------------
 
 Hora de converter nosso projeto blogático para uma plataforma com mais funcionalidades!
 
-6.5 - Documentação: lendo e escrevendo
+Roteiro do screencast:
+
+::
+
+  cd ~/projetos/blogatico
+  cp -r ../boaspraticas/_templates/ikiwiki/* .
+  make
+
+7.4 - Documentação: lendo e escrevendo
 --------------------------------------
+
+* Quanto mais próxima a documentação está do código, mais difícil dela se desatualizar.
+* Docblocs / heredocs.
 
 Roteiro do screencast:
 
@@ -32,7 +44,10 @@ Roteiro do screencast:
 
   sudo apt-get install ttyrec
 
-6.7 - Referências
+7.5 - Atividades
+----------------
+
+7.6 - Referências
 -----------------
 
 * `Versionamento Semântico 2.0.0 <http://semver.org/lang/pt-BR/>`_.

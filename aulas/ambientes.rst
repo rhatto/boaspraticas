@@ -175,7 +175,7 @@ Roteiro do screencast:
 2.3 - Arquivos básicos
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* README: em Markdown (.md), reStructuredText (.rst), texto simples (.txt), etc.
+* README: em Markdown (.md ou .mdwn), reStructuredText (.rst), texto simples (.txt), etc.
 * ChangeLog: opcional e pode ser gerado automaticamente.
 * Makefile ou outro arquivo dependendo do método de construção do software (Rakefile, setup.py, etc).
 
@@ -185,8 +185,8 @@ Roteiro do screencast:
 
   # Criando a estrutura básica do seu projeto
   cd ~/projetos/blogatico
-  touch README.md ChangeLog TODO.md
-  gedit README.md
+  touch README.mdwn ChangeLog TODO.mdwn
+  gedit README.mdwn
 
 2.3 - Markdown e texto estruturado
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -207,7 +207,7 @@ Roteiro do screncast:
 
 ::
 
-  gedit TODO.md
+  gedit TODO.mdwn
 
 Imagens:
 
@@ -247,7 +247,7 @@ Roteiro do screencast:
   # Criando o conteúdo inicial
   mkdir www
   cd www
-  touch index.md
+  touch index.mdwn
 
   # Testando!
   ../bin/build
