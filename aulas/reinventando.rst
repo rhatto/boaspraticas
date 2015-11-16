@@ -14,6 +14,7 @@
 6.2 - Antipatterns
 ------------------
 
+* Hype: cuidado com o ciclo dos modismos!
 * Linearidade: o mito da pessoa-mês (Lei de Brooks).
 * Inferno de dependências
 

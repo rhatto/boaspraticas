@@ -72,3 +72,11 @@ A competição no mercado pode forçar a redução do valor/hora. Porém, a redu
 * MEI: até R$60 mil por ano e apenas R$50 mensais de despesas (dados de 2015).
 * Simples Nacional: sua empresa cresceu!
 * CLT e CLT Flex: preferível quando você tiver uma relação estável com um empregador, porém depende do cliente oferecer essa opção.
+
+8.5 - Atividades
+----------------
+
+8.6 - Referências
+-----------------
+
+* `Portal do Empreendedor <http://www.portaldoempreendedor.gov.br/>`_.

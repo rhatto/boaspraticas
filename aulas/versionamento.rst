@@ -224,11 +224,44 @@ Roteiro do screencast:
 4.8 - Social coding (gitlab, github, etc)
 -----------------------------------------
 
+4.8 - Compartilhamento básico de código
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* O git e outros sistemas similares foi feito para facilitar o compartilhamento de código e o desenvolvimento colaborativo.
+* Isso é feito através da disponibilização pública dos repositórios, que podem ser clonados ou terem seu conteúdo copiado para outros repositórios.
+
+Roteiro do screencast:
+
+::
+
+  git pull origin master
+
+Imagens:
+
+* Ciclo de desenvolvimento colaborativo.
+
+4.8 - Redes sociais de código
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Existem serviços que facilitam a criação de repositórios e a interação entre desenvolvedores(as).
+* Exemplos: BitBucket, Github, Gitlab.
+
 4.9 - Github: criando e forkando um projeto
 -------------------------------------------
 
+Nesta aula será apresentado o Github e será mostrado como criar e forkar um projeto.
+
+Roteiro do screencast:
+
+* Criação de um repositório para o "blogatico".
+* Forkando o projeto "boaspraticas".
+
 4.10 - Github: fazendo um pull request
 --------------------------------------
+
+Roteiro do screencast:
+
+* Fazendo um pull request no repositório do "blogatico".
 
 4.11 - Atividades
 -----------------

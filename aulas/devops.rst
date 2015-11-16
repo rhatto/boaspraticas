@@ -12,10 +12,50 @@ Imagens:
 
 * https://upload.wikimedia.org/wikipedia/commons/b/b5/Devops.svg
 
-5.1 Ambientes reprodutíveis
+5.2 Ambientes reprodutíveis
 ---------------------------
 
-5.2 - Vagrant
+5.2 - Ambientes
+~~~~~~~~~~~~~~~
+
+* Um software depende do seu ambiente para funcionar.
+* Se o ambiente muda, o software pode parar de operar corretamente.
+* O primeiro princípio DevOps é manter um ambiente de hospedagem reprodutível.
+
+5.2 - Reprodutibilidade
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* Automação básica para criar um ambiente de hospedagem a partir de elementos básicos: máquinas virtuais, repositório do código, etc.
+* Provision (provisionamento): criação do ambiente de hospedagem.
+* Deploy (disponibilização): envio do software para o ambiente.
+
+5.2 - Estágios
+~~~~~~~~~~~~~~
+
+No caso de uma arquitetura de serviços, temos os seguintes ambientes:
+
+* Desenvolvimento: em geral na máquina do(a) desenvolvedor(a).
+* Testes e estágio (staging): onde versões do software são hospedadas antes de irem ao ar.
+* Produção: onde o software está realmente hospedado.
+
+5.3 - Máquinas virtuais
+-----------------------
+
+5.3 - Paradigmas
+~~~~~~~~~~~~~~~~
+
+* Um computador é uma máquina de Turing, podendo simular qualquer máquina, inclusive uma máquina de Turing.
+* Uma máquina virtual nada mais do que um software simulando o comportamento parcial ou integral de um computador.
+
+5.3 - Implementações
+--------------------
+
+* Contêiners: chroot, Linux-VServer, OpenVZ, docker.
+* Paravirtualizadores: Xen.
+* Virtualizadores: KVM, VirtualBox.
+* Gestores de nuvem: OpenStack.
+
+5.4 - Vagrant
 -------------
 
 Roteiro do screencast:
@@ -28,28 +68,25 @@ Roteiro do screencast:
   cd ~/projetos/blogatico
   vagrant init
 
-5.3 - KVM, docker, chroot e afins
----------------------------------
-
-5.4 - Integração contínua
+5.5 - Integração contínua
 -------------------------
 
 - Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
 
-5.5 - Fazendo o deploy
+5.6 - Fazendo o deploy
 ----------------------
 
 - SSH e rsync.
 - Deploy via git.
 
-5.6 Atividades
+5.7 Atividades
 --------------
 
 #. Instale o vagrant.
 #. Crie uma máquina virtual para desenvolver o seu projeto.
 #. Crie uma conta no Travis CI.
 
-5.7 - Referências
+5.8 - Referências
 -----------------
 
 - `Trilha sonora: Daft Punk - TRON Legacy <https://www.youtube.com/results?search_query=tron+legacy+soundtrack+>`_.

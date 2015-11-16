@@ -4,11 +4,23 @@
 9.1 - Metodologias e técnicas de produtividade
 ----------------------------------------------
 
+* Organização para fluidez.
+* Busque uma metodologia pessoal.
+* Saiba se adaptar a diversas metodologias em equipe.
+
 9.2 - Ambientes de desenvolvimento eficientes
 ---------------------------------------------
 
+* Deixe seu ambiente de desenvolvimento afinado com o seu trabalho.
+* Descubra quais são as ferramentas fundamentais para você.
+* Mantenha templates e scripts de produtividade para facilitar a prototipagem de novos projetos e a execução de tarefas cotidianas.
+
 9.3 - Licenças de software
 --------------------------
+
+* Qualquer conteúdo é protegido por copyright por padrão.
+* Licenças de software livre e aberto abrandam o copyright, aproximando seu software do copyleft.
+* Existem diversas licenças, cada uma delas mais apropriadas dependendo de como o software se integrará com outros softwares e com a comunidade.
 
 9.4 - Controle de versão e social coding
 ----------------------------------------
