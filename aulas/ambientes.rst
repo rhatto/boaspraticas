@@ -32,7 +32,7 @@ Desktop sem distrações: o que é o mínimo que você precisa? No nosso caso, u
 Roteiro do screencast:
 
 #. Exibir um desktop básico e limpo.
-#. Discorrer sobre cores de fundo, teclas de atalho e abas de terminal e editor de texto.
+#. Discorrer sobre cores de fundo, teclas de atalho, abas de terminal e editor de texto, layouts de janela, etc.
 
 2.1 - Editores
 ~~~~~~~~~~~~~~
@@ -230,27 +230,25 @@ Roteiro do screencast:
 ::
 
   # Criando um script!
-  mkdir bin
-  touch bin/build
+  touch blogatico
 
   # Não funciona sem permissão de execução!
-  exec bin/build
+  exec blogatico
 
   # Agora vai!
-  chmod +x bin/build
-  exec bin/build
-  ./bin/build
+  chmod +x blogatico
+  exec blogatico
+  ./blogatico
 
   # Editando
-  gedit bin/build
+  gedit blogatico
 
   # Criando o conteúdo inicial
-  mkdir www
-  cd www
-  touch index.mdwn
+  mkdir data
+  gedit data/index.mdwn
 
   # Testando!
-  ../bin/build
+  blogatico
 
 2.4 - Atividades
 ----------------
@@ -259,7 +257,7 @@ Roteiro do screencast:
 
 #. Crie a prática de avaliar seu fluxo de trabalho e identificar o que mais lhe incomoda: pode ser aquela tecla de atalho incômoda ou mesmo a falta de uma tecla de atalho para uma dada operação. Pode ser a falta de um script para automatizar tarefas repetitivas ou qualquer coisa que tira transfere a concentração do seu trabalho para tarefas operacionais. Como você poderia resolver o problema?
 
-#. Crie uma pasta para o seu projeto.
+#. Crie a estrutura básica do seu projeto.
 
 2.5 Referências
 ---------------

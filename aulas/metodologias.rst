@@ -163,11 +163,12 @@ Imagens:
 1. Pesquisa: pesquise pesquise pesquise! O que você encontrou?
 2. Bootstrap:
 
-   * Precisamos de um nome. Curiosamente, nomear um projeto é a etapa mais difícil, mas hoje estamos criativos e chamaremos de "blogático", um blog prático :P
+   * Precisamos de um nome. Curiosamente, nomear um projeto é a etapa mais difícil, mas hoje estamos criativos e chamaremos de "blogático", gerador de sítio estático :)
    * A metodologia utilizada será o desenvolvimento incremental ao longo deste curso.
    * Plano inicial para a dominação mundial:
 
-    * Criar o projeto.
+    * Design básico.
+    * Criar o repositório do projeto.
     * Script básico para geração do site.
     * Aparência e SEO básico do site.
     * Conteúdo inicial.

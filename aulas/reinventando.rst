@@ -4,6 +4,7 @@
 7.1 - Patterns
 --------------
 
+* TDD.
 * Separando código de dados, sobretudo dados sigilosos!
 * Desacoplamento.
 * Filosofia UNIX:
@@ -37,6 +38,7 @@ Roteiro do screencast:
 
 * Quanto mais próxima a documentação está do código, mais difícil dela se desatualizar.
 * Docblocs / heredocs.
+* Documente procedimentos enquanto você os realiza.
 
 Roteiro do screencast:
 

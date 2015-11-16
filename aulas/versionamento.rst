@@ -268,8 +268,8 @@ Roteiro do screencast:
 
 #. Instale o git.
 #. Crie uma conta do `Github <https://github.com>`_ ou no `Gitlab <https://gitlab.com>`_.
-#. Faça um pequeno site com o Skeleton.
 #. Bônus: git log to ChangeLog!
+#. Faça um fork do blogático e implemente alguma funcionalidade. Sugestões no arquivo `TODO` do projeto. Gostou das suas mudanças? Por que não fazer um pull request? :D
 
 4.12 - Referências
 ------------------
