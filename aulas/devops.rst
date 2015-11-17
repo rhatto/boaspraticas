@@ -45,7 +45,7 @@ No caso de uma arquitetura de serviços, temos os seguintes ambientes:
 ~~~~~~~~~~~~~~~~
 
 * Um computador é uma máquina de Turing, podendo simular qualquer máquina, inclusive uma máquina de Turing.
-* Uma máquina virtual nada mais do que um software simulando o comportamento parcial ou integral de um computador.
+* Uma máquina virtual é basicamente um software simulando o comportamento parcial ou integral de um computador.
 
 5.3 - Implementações
 --------------------
