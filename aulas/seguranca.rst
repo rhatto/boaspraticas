@@ -50,3 +50,9 @@ Roteiro do screencast:
 ------------------------------------------
 
 * `Let's Encrypt <https://letsencrypt.org>`_.
+
+6.6 - Atividades
+----------------
+
+6.7 - Referências
+-----------------

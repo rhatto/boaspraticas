@@ -58,6 +58,12 @@ No caso de uma arquitetura de serviços, temos os seguintes ambientes:
 5.4 - Vagrant
 -------------
 
+* Ferramenta para criação e gestão de ambientes de desenvolvimento.
+* Sua aplicação roda localmente, porém dentro de uma máquina virtual.
+* O simples comando `vagrant up` ergue a máquina virtual e realiza a configuração do ambiente.
+* A "receita" do ambiente de desenvolvimento pode ser compartilhada entre todos(as) desenvolvedores(as) do software.
+* O vagrant se soma ao nosso ambiente de trabalho e também serve como ambiente de testes.
+
 Roteiro do screencast:
 
 ::
@@ -68,23 +74,42 @@ Roteiro do screencast:
   cd ~/projetos/blogatico
   vagrant init
 
-5.5 - Integração contínua
--------------------------
-
-- Integração contínua usando o `Travis CI <http://travis-ci.org/>`_.
-
-5.6 - Fazendo o deploy
+5.5 - Fazendo o deploy
 ----------------------
 
-- SSH e rsync.
-- Deploy via git.
+- Deploy: disponibilizar o código em ambiente de hospedagem (desenvolvimento, staging ou produção).
+- SSH: protocolo de comunicação criptografada e autenticada entre cliente e servidor.
+- Git, rsync e sftp: diversos, dentre inúmeros, meios de se transferir o código.
+- O deploy também pode ser automatizado usando scripts ou softwares especializados (ansible, capistrano, etc).
+
+Roteiro do screencast:
+
+* SSH: entrando no servidor (fingerprints e senha).
+* SSH: autenticação por chave.
+* Bônus: github com chave pública.
+* Clonando o repositório em produção.
+* Atualizando o repositório.
+* Bônus: deploy automatizado com git-hooks.
+
+5.6 - Testes e integração contínua
+----------------------------------
+
+- Erros de programação são muito comuns.
+- Apenas a atenção não é suficiente.
+- Testar manualmente o software é importante, porém é um trabalho repetitivo, cansativo e também sujeito a falhas.
+- Rotinas automatizadas de teste podem pegar muitos erros e serem feitas localmente ou através de serviços.
+
+Roteiro do screencast:
+
+* Mostrar softwares e serviços de integração contínua.
+* Criar um protótipo local e simples de teste e integração contínua.
 
 5.7 Atividades
 --------------
 
-#. Instale o vagrant.
-#. Crie uma máquina virtual para desenvolver o seu projeto.
-#. Crie uma conta no Travis CI.
+#. Crie um ambiente de desenvolvimento vagrant para o seu projeto.
+#. Experimente o PuPHPet para gerar uma configuração mais complexa de ambiente virtual de desenvolvimento.
+#. Crie uma rotina de testes simples para o seu projeto.
 
 5.8 - Referências
 -----------------
@@ -94,5 +119,4 @@ Roteiro do screencast:
 - `Deploy estilo Heroku usando Git – Elton Minetto <http://eltonminetto.net/blog/2013/11/11/deploy-estilo-heroku-usando-git/>`_.
 - `Deploy fácil com git - Dan Jesus <https://danjesus.github.io/blog/deploy-facil-com-git/>`_.
 - `PuPHPet - Online GUI configurator for Puppet & Vagrant <https://puphpet.com/>`_.
-- https://github.com/juancarlospaco/css-html-js-minify
-- https://packages.debian.org/stable/tidy
+- `Comparison of continuous integration software - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software>`_.

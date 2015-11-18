@@ -79,6 +79,8 @@ A competição no mercado pode forçar a redução do valor cobrado. Porém, a r
 8.6 - Atividades
 ----------------
 
+#. Crie um modelo de proposta comercial. Você pode usar vários modelos disponíveis na internet e adaptar às suas preferências. Ter esse template à mão permitirá que você foque mais no conteúdo das propostas que você fizer do que na sua apresentação lógica e gráfica.
+
 8.7 - Referências
 -----------------
 

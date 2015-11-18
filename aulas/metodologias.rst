@@ -57,9 +57,9 @@ Queremos:
 
 - Fundamental: fazer fluir a criatividade.
 - Evitar distrações e preocupações.
-- Uma tarefa por vez.
-- Foco na missão.
-- Fazer o essencial.
+- Foco na missão: uma tarefa por vez.
+- Básico: agenda, lista de tarefas e log (registro).
+- Fazer o essencial e ter autocrítica sobre isso.
 - Método não é lei, é sugestão de caminho. Você descobriu que é multi-tarefas e funciona melhor assim? Ok! :)
 - Mude seus hábitos aos poucos!
 

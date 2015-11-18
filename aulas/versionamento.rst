@@ -224,8 +224,8 @@ Roteiro do screencast:
 4.8 - Social coding (gitlab, github, etc)
 -----------------------------------------
 
-4.8 - Compartilhamento básico de código
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+4.8 - Repositórios públicos
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * O git e outros sistemas similares foi feito para facilitar o compartilhamento de código e o desenvolvimento colaborativo.
 * Isso é feito através da disponibilização pública dos repositórios, que podem ser clonados ou terem seu conteúdo copiado para outros repositórios.
@@ -266,7 +266,7 @@ Roteiro do screencast:
 4.11 - Atividades
 -----------------
 
-#. Instale o git.
+#. Transforme o seu projeto num repositório git.
 #. Crie uma conta do `Github <https://github.com>`_ ou no `Gitlab <https://gitlab.com>`_.
 #. Bônus: git log to ChangeLog!
 #. Faça um fork do blogático e implemente alguma funcionalidade. Sugestões no arquivo `TODO` do projeto. Gostou das suas mudanças? Por que não fazer um pull request? :D
