@@ -12,8 +12,8 @@ Imagens:
 
 * https://upload.wikimedia.org/wikipedia/commons/b/b5/Devops.svg
 
-5.2 Ambientes reprodutíveis
----------------------------
+5.2 - Ambientes reprodutíveis
+-----------------------------
 
 5.2 - Ambientes
 ~~~~~~~~~~~~~~~
@@ -104,8 +104,8 @@ Roteiro do screencast:
 * Mostrar softwares e serviços de integração contínua.
 * Criar um protótipo local e simples de teste e integração contínua.
 
-5.7 Atividades
---------------
+5.7 - Atividades
+----------------
 
 #. Crie um ambiente de desenvolvimento vagrant para o seu projeto.
 #. Experimente o PuPHPet para gerar uma configuração mais complexa de ambiente virtual de desenvolvimento.

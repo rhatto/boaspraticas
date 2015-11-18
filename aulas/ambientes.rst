@@ -259,8 +259,8 @@ Roteiro do screencast:
 
 #. Crie a estrutura básica do seu projeto.
 
-2.5 Referências
----------------
+2.5 - Referências
+-----------------
 
 - `Guia Foca Linux <http://www.guiafoca.org/>`_.
 - `Solarized - Ethan Schoonover <http://ethanschoonover.com/solarized>`_.
