@@ -116,7 +116,6 @@ ZTD é um GTD simplificado e mais estruturado:
 - Scrum: metodologia de gerenciamento de projetos.
 - XP: metodologia de engenharia de software.
 - Kanban: controle coletivo de tarefas.
-- TDD: técnica de desenvolvimento guiada por testes.
 - Híbridação: Scrumban + XP :D
 
 1.6 - Começando um projeto
@@ -165,13 +164,13 @@ Imagens:
 
    * Precisamos de um nome. Curiosamente, nomear um projeto é a etapa mais difícil, mas hoje estamos criativos e chamaremos de "blogático", gerador de sítio estático :)
    * A metodologia utilizada será o desenvolvimento incremental ao longo deste curso.
+   * Design inicial: o blogático varre uma pasta com arquivos de texto e gera o conteúdo no formato de website numa outra pasta.
    * Plano inicial para a dominação mundial:
 
-    * Design básico.
     * Criar o repositório do projeto.
     * Script básico para geração do site.
-    * Aparência e SEO básico do site.
-    * Conteúdo inicial.
+    * Conteúdo inicial para testes.
+    * Documentação.
     * Lançamento!
 
 3. Realização: quer ver como o projeto pode ser realizado? Continue com o curso! :P
@@ -208,3 +207,4 @@ Imagens:
 - `O Tao da programação <http://www.geocities.ws/worgtal/2002/tao.pdf>`_.
 - `Top Open-Source Static Site Generators - StaticGen <https://www.staticgen.com/>`_.
 - `principles - IndieWebCamp <https://indiewebcamp.com/Principles>`_.
+`Aprenda sobre Desenvolvimento Ágil de Software | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/>`_.
