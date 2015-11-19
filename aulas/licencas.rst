@@ -98,7 +98,7 @@ Exemplo: `licença desta documentação </LICENSE.html>`_.
 
 * Conjunto de licenças (7 licenças padrão).
 * Escopo abrangente. Em geral usado para o que não é software.
-* Formato simples, longo e compreensível por máquina.
+* Formatos curto, longo e compreensível por máquina.
 * Parâmetros:
 
   * Atribuição.
@@ -160,3 +160,8 @@ Roteiro do screencast:
 * `CreativeCommons Brasil <https://br.creativecommons.org/>`_.
 * `Free Software Foundation — working together for free software <https://www.fsf.org/?set_language=pt>`_.
 * `Apache license vs BSD vs MIT - Stack Overflow <https://stackoverflow.com/questions/40100/apache-license-vs-bsd-vs-mit>`_.
+* `Escolher uma licença open source não precisa ser assustador - EscolhaUmaLicenca.com.br <http://escolhaumalicenca.com.br/>`_.
+* `Choosing an open source license doesn’t need to be scary - Choose a License <http://choosealicense.com/>`_.
+* `O problema da Licença BSD - Projeto GNU - Free Software Foundation <https://www.gnu.org/philosophy/bsd.pt-br.html>`_.
+* `Software livre, código aberto e software gratuito: as diferenças <http://www.infowester.com/freexopen.php>`_.
+* `Licença Pública Mozilla versão 1.1 <http://br.mozdev.org/MPL/>`_.

@@ -72,8 +72,8 @@ Roteiro do screencast:
 
 * HTTPS: HTTP em cima de uma conexão SSL/TLS.
 * Padrão dos anos 90 e melhorado desde então.
-* Bem implementado: oferece segurança da informação num nível aceitável, porém não oferece anonimato.
-* Mal implementado: só oferece ilusão de segurança.
+* Se bem implementado: oferece segurança da informação num nível aceitável, porém não oferece anonimato.
+* Se mal implementado: só oferece ilusão de segurança.
 * Movimento crescente para tornar HTTPS padrão em todos os sites!
 
 6.7 - Certificados para HTTPS

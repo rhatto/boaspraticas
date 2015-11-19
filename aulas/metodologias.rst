@@ -207,4 +207,5 @@ Imagens:
 - `O Tao da programação <http://www.geocities.ws/worgtal/2002/tao.pdf>`_.
 - `Top Open-Source Static Site Generators - StaticGen <https://www.staticgen.com/>`_.
 - `principles - IndieWebCamp <https://indiewebcamp.com/Principles>`_.
-`Aprenda sobre Desenvolvimento Ágil de Software | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/>`_.
+- `Aprenda sobre Desenvolvimento Ágil de Software | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/>`_.
+- `A Catedral e o Bazar - Wikisource <https://pt.wikisource.org/wiki/A_Catedral_e_o_Bazar>`_.

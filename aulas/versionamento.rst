@@ -279,3 +279,4 @@ Roteiro do screencast:
 * `cheatsheet do git-flow <https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html>`_.
 * `Skeleton: Responsive CSS Boilerplate <http://getskeleton.com/>`_
 * `git-cola: The highly caffeinated Git GUI <https://git-cola.github.io/>`_
+* `Sistema de controle de versão – Wikipédia, a enciclopédia livre <https://pt.wikipedia.org/wiki/Sistema_de_controle_de_vers%C3%A3o>`_.
