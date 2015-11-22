@@ -232,23 +232,18 @@ Roteiro do screencast:
   # Criando um script!
   touch blogatico
 
-  # Não funciona sem permissão de execução!
-  exec blogatico
-
-  # Agora vai!
-  chmod +x blogatico
-  exec blogatico
-  ./blogatico
-
   # Editando
   gedit blogatico
+
+  # Permissao de execucao
+  chmod +x blogatico
 
   # Criando o conteúdo inicial
   mkdir data
   gedit data/index.mdwn
 
   # Testando!
-  blogatico
+  ./blogatico
 
 2.4 - Atividades
 ----------------
@@ -264,3 +259,7 @@ Roteiro do screencast:
 
 - `Guia Foca Linux <http://www.guiafoca.org/>`_.
 - `Solarized - Ethan Schoonover <http://ethanschoonover.com/solarized>`_.
+- https://taiga.io/
+- https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems
+- https://taskwarrior.org/docs/start.html
+- http://kanboard.net/
