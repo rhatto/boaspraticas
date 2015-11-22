@@ -92,6 +92,10 @@ profissional melhor aplicando este conhecimento ?
 Material Didático
 ~~~~~~~~~~~~~~~~~
 
+Código para acompanhamento:
+
+- `Blogático <https://github.com/rhatto/blogatico>`_.
+
 Bibliografia básica:
 
 - O Mítico Homem-Mês.
