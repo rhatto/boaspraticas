@@ -23,7 +23,7 @@ web_deploy:
 	#@chmod +x bin/*
 	#git push web
 	#git annex sync
-	@rsync -avz --delete www/ templates:/var/sites/templates/www/
+	@rsync -avz --delete output/ blogatico.example.org:/var/www/output/
 
 post_receive:
 	git config receive.denyCurrentBranch ignore
