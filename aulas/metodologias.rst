@@ -209,3 +209,6 @@ Imagens:
 - `principles - IndieWebCamp <https://indiewebcamp.com/Principles>`_.
 - `Aprenda sobre Desenvolvimento Ágil de Software | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/>`_.
 - `A Catedral e o Bazar - Wikisource <https://pt.wikisource.org/wiki/A_Catedral_e_o_Bazar>`_.
+- `agilelion/Open-Kanban · GitHub <https://github.com/agilelion/Open-Kanban>`_.
+- `Open Kanban - An Open Source, Ultra Light, Agile & Lean Method | AgileLion <http://agilelion.com/agile-kanban-cafe/open-kanban>`_.
+- `Open Kanban Presentation - Discover the Power of Kanban | AgileLion <http://agilelion.com/agile-kanban-cafe/open-kanban-presentation>`_.
