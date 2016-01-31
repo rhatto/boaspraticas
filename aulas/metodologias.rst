@@ -212,3 +212,6 @@ Imagens:
 - `agilelion/Open-Kanban · GitHub <https://github.com/agilelion/Open-Kanban>`_.
 - `Open Kanban - An Open Source, Ultra Light, Agile & Lean Method | AgileLion <http://agilelion.com/agile-kanban-cafe/open-kanban>`_.
 - `Open Kanban Presentation - Discover the Power of Kanban | AgileLion <http://agilelion.com/agile-kanban-cafe/open-kanban-presentation>`_.
+- `(Engenharia de Software - Edi\347\343o 45.pdf) - A6 - 45-6- Kanbam.pdf <http://www.garcia.pro.br/EngenhariadeSW/artigosMA/A6%20-%2045-6-%20Kanbam.pdf>`_.
+- `Extreme Programming, XP metodologia desenvolvimento ágil | XP | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/xp/>`_.
+- `Scrum: metodologia ágil para gestão e planejamento de projetos | Scrum | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/scrum/>`_.

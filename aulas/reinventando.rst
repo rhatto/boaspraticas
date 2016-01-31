@@ -73,3 +73,4 @@ Roteiro do screencast:
 * `Versionamento Semântico 2.0.0 <http://semver.org/lang/pt-BR/>`_.
 * `On Documentation-Driven Development // Collective Idea | Crafting web and mobile software based in Holland, Michigan <http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/>`_.
 * `Readme Driven Development <http://tom.preston-werner.com/2010/08/23/readme-driven-development.html>`_.
+* https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
