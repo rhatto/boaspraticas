@@ -4,10 +4,33 @@
 6.1 - Segurança da informação
 -----------------------------
 
-* Confidencialidade.
-* Integridade.
-* Disponibilidade.
-* Autenticidade.
+É a hora de falar sobre segurança e privacidade no desenvolvimento. Grosso
+modo, podemos dividir a segurança da informação em algumas propriedades, como
+por exemplo:
+
+1. Confidencialidade: é a garantia de que apenas a comunicação poderá
+   ser interpretada pelas partes envolvidas, isto é, mesmo havendo interceptação
+   por terceiros o conteúdo da comunicação estará protegido.
+
+2. Integridade: é a garantia de que o conteúdo da comunicação não foi
+   adulterado por terceiros.
+
+3. Disponibilidade: garantia de que o sistema de comunicação estará disponível
+   sempre que necessário.
+
+4. Autenticidade: garante que cada uma das partes possa verificar se está de
+   fato se comunicando com quem pensa estar se comunicando, isto é, a garantia
+   de que não há um impostor do outro lado da comunicação.
+
+Opcionalmente também podemos falar de:
+
+5. Não-repúdio: garantir que as partes envolvidas na comunicação não possam negar
+   ter participado da comunicação.
+
+6. Anonimato: garantia de de as partes envolvidas na comunicação não possam ser
+   identificadas.
+
+Nem sempre os sistemas satisfazem todas essas propriedades!
 
 6.2 - Segurança começa no desenvolvimento
 -----------------------------------------
