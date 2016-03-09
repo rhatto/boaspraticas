@@ -15,7 +15,7 @@ por exemplo:
 2. Integridade: é a garantia de que o conteúdo da comunicação não foi
    adulterado por terceiros.
 
-3. Disponibilidade: garantia de que o sistema de comunicação estará disponível
+3. Disponibilidade: garantia de que o sistema de comunicação estará acessível
    sempre que necessário.
 
 4. Autenticidade: garante que cada uma das partes possa verificar se está de
