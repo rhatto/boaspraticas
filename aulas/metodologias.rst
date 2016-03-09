@@ -131,8 +131,8 @@ Link: http://www.manifestoagil.com.br
 - Kanban: controle coletivo de tarefas.
 - Híbridação: Scrumban + XP :D
 
-1.5 - Kanban
-~~~~~~~~~~~~
+1.6 - Kanban
+------------
 
 O Kanban é uma metodologia de trabalho baseada em três princípios:
 
@@ -149,7 +149,7 @@ O Kanban é uma metodologia de trabalho baseada em três princípios:
    que podem estar em cada etapa do fluxo, descobrindo assim
    quais são os gargalos da equipe.
 
-1.5 - Kanban: fluxo de trabalho
+1.6 - Kanban: fluxo de trabalho
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 É fundamental no Kanban usar um quadro dividido em colunas, cada
@@ -167,8 +167,8 @@ num cartão e afixe-as no quadro Kanban.
 Conforme as tarefas passam de etapa, os respectivos cartões são movidos ao
 longo do quadro Kanban.
 
-1.5 - Scrum
-~~~~~~~~~~~
+1.7 - Scrum
+-----------
 
 O scrum prevê uma equipe pequena, muito coesa e que queira atingir objetivos
 bem definidos em períodos de tempo pequenos, tipicamente de 2 a 4 semanas.
@@ -180,7 +180,7 @@ objetivo seja atingido.
 O scrum define alguns papéis de facilitação do processo para ajudar a resolver
 problemas e impedimentos do processo de trabalho.
 
-1.5 - Scrum: fluxo de trabalho
+1.7 - Scrum: fluxo de trabalho
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. No início do sprint, a equipe realiza uma reunião de planejamento,
@@ -195,8 +195,8 @@ problemas e impedimentos do processo de trabalho.
    o trabalho realizado e outra para avaliar quais mudanças no processo
    de trabalho precisam ser realizadas.
 
-1.5 - XP
-~~~~~~~~
+1.8 - XP
+--------
 
 O Extreme Programming, ou XP, é útil em projetos com escopo pouco
 definido ou que mudam com muita frequência.
@@ -204,7 +204,7 @@ definido ou que mudam com muita frequência.
 Ele assume uma equipe pequena e um desenvolvimento incremental, onde uma versão
 simples do projeto é implementada logo de início e é melhorada a cada iteração.
 
-1.5 - XP: fluxo de trabalho
+1.8 - XP: fluxo de trabalho
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 O Extreme Programming parte de uma ideia simples: se uma boa prática é boa
@@ -220,10 +220,10 @@ do código, desenvolvimento orientado a testes, refatoração do código
 sempre que necessário, a padronização do código, design simples, releases
 frequentes e interatividade com o cliente.
 
-1.6 - Começando um projeto
+1.9 - Começando um projeto
 --------------------------
 
-1.6 - Etapas
+1.9 - Etapas
 ~~~~~~~~~~~~
 
 - Etapa 0: descoberta, brainstorm e levantamento de escopo!
@@ -242,7 +242,7 @@ Imagens:
 
 * Diagramas jocosos de problema/solução.
 
-1.7 - Projeto de exemplo
+1.9 - Projeto de exemplo
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 0. Descoberta:
@@ -277,7 +277,7 @@ Imagens:
 
 3. Realização: quer ver como o projeto pode ser realizado? Continue com o curso! :P
 
-1.8 - Atividades
+1.10 - Atividades
 ----------------
 
 #. Adote a técnica Pomodoro numa tarefa grande e importante do seu dia. Você pode usar qualquer cronômetro disponível -- do seu computador, do telefone, do relógio de pulso ou mesmo um timer de cozinha. Permaneça apenas realizando a tarefa importante em cada bloco de 25 minutos. Avalie a eficácia do método: ele te ajudou?
@@ -286,7 +286,7 @@ Imagens:
 
 #. Bônus: esboce um documento simples de escopo para o seu projeto. Ele pode ser um importante guia nas fases iniciais.
 
-1.9 - Referências
+1.11 - Referências
 -----------------
 
 - `Best coding practices - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Best_coding_practices>`_.
