@@ -278,7 +278,7 @@ Imagens:
 3. Realização: quer ver como o projeto pode ser realizado? Continue com o curso! :P
 
 1.10 - Atividades
-----------------
+-----------------
 
 #. Adote a técnica Pomodoro numa tarefa grande e importante do seu dia. Você pode usar qualquer cronômetro disponível -- do seu computador, do telefone, do relógio de pulso ou mesmo um timer de cozinha. Permaneça apenas realizando a tarefa importante em cada bloco de 25 minutos. Avalie a eficácia do método: ele te ajudou?
 
@@ -287,7 +287,7 @@ Imagens:
 #. Bônus: esboce um documento simples de escopo para o seu projeto. Ele pode ser um importante guia nas fases iniciais.
 
 1.11 - Referências
------------------
+------------------
 
 - `Best coding practices - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Best_coding_practices>`_.
 - `Best practices for software development projects <http://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks2.html>`_.
