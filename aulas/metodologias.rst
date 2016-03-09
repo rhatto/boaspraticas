@@ -110,6 +110,19 @@ ZTD é um GTD simplificado e mais estruturado:
 - Eficiência do código aberto.
 - Agile: conjunto de princípios.
 
+1.5 - Agile
+~~~~~~~~~~~
+
+Mesmo havendo valor nos itens à direita, os itens à esquerda são mais
+valorizados:
+
+- Indivíduos e interação entre eles mais que processos e ferramentas
+- Software em funcionamento mais que documentação abrangente
+- Colaboração com o cliente mais que negociação de contratos
+- Responder a mudanças mais que seguir um plano
+
+Link: http://www.manifestoagil.com.br
+
 1.5 - Metodologias populares
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -117,6 +130,95 @@ ZTD é um GTD simplificado e mais estruturado:
 - XP: metodologia de engenharia de software.
 - Kanban: controle coletivo de tarefas.
 - Híbridação: Scrumban + XP :D
+
+1.5 - Kanban
+~~~~~~~~~~~~
+
+O Kanban é uma metodologia de trabalho baseada em três princípios:
+
+1. Visualizar o fluxo de trabalho, o que é feito tipicamente usando um
+   quadro físico, afixado numa parede, ou virtual, usando um gestor
+   de software.
+
+2. Limitar o trabalho em andamento, determinando quantos itens
+   podem se encontrar em cada etapa.
+
+3. Acompanhar o tempo de execução de cada tarefa, ou templo de ciclo,
+   para que você possa otimizar o trabalho futuro e prever melhor
+   a duração média de cada tarefa e calibrar o limite de tarefas
+   que podem estar em cada etapa do fluxo, descobrindo assim
+   quais são os gargalos da equipe.
+
+1.5 - Kanban: fluxo de trabalho
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+É fundamental no Kanban usar um quadro dividido em colunas, cada
+uma delas representando uma etapa do fluxo de trabalho (itens a fazer,
+em desenvolvimento, em teste, entregue, etc). Você também pode dividir
+o quadro em linhas para delimitar cada componente do seu produto,
+mas isso não é sempre necessário.
+
+Em seguida, escolha o limite inicial de tarefas que podem se encontrar em
+cada etapa. Lembre-se que o Kanban é empírico!
+
+Por fim, divida então o trabalho em tarefas menores, escreva cada uma delas
+num cartão e afixe-as no quadro Kanban.
+
+Conforme as tarefas passam de etapa, os respectivos cartões são movidos ao
+longo do quadro Kanban.
+
+1.5 - Scrum
+~~~~~~~~~~~
+
+O scrum prevê uma equipe pequena, muito coesa e que queira atingir objetivos
+bem definidos em períodos de tempo pequenos, tipicamente de 2 a 4 semanas.
+
+A cada ciclo de trabalho, ou sprint, é estabelecida uma entrega comum para todo
+o time. Isso vai pautar a equipe numa série de tarefas que contribuam para esse
+objetivo seja atingido.
+
+O scrum define alguns papéis de facilitação do processo para ajudar a resolver
+problemas e impedimentos do processo de trabalho.
+
+1.5 - Scrum: fluxo de trabalho
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. No início do sprint, a equipe realiza uma reunião de planejamento,
+   estabelecendo quais tarefas serão realizadas de acordo com prioridade,
+   esforço necessário, etc.
+
+2. Diariamente, o time faz uma reunião rápida de avaliação do dia anterior
+   e onde cada integrante da equipe informa no que trabalhará no dia atual
+   e quais dificuldades está enfrentando.
+
+3. Ao final do sprint, o time realiza duas reuniões: uma para apresentar
+   o trabalho realizado e outra para avaliar quais mudanças no processo
+   de trabalho precisam ser realizadas.
+
+1.5 - XP
+~~~~~~~~
+
+O Extreme Programming, ou XP, é útil em projetos com escopo pouco
+definido ou que mudam com muita frequência.
+
+Ele assume uma equipe pequena e um desenvolvimento incremental, onde uma versão
+simples do projeto é implementada logo de início e é melhorada a cada iteração.
+
+1.5 - XP: fluxo de trabalho
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+O Extreme Programming parte de uma ideia simples: se uma boa prática é boa
+mesmo, ela pode ser levada ao extremo.
+
+Por exemplo: se a revisão do código é uma boa prática, por que não fazê-la
+continuamente através da programação em pares, isto é, com duas pessoas
+sentadas na mesma estação de trabalho fazendo o código juntas? A qualidade
+do código resultante é bem alta.
+
+Outras ideias do XP incluem a integração contínua com testes frequentes
+do código, desenvolvimento orientado a testes, refatoração do código
+sempre que necessário, a padronização do código, design simples, releases
+frequentes e interatividade com o cliente.
 
 1.6 - Começando um projeto
 --------------------------
@@ -215,3 +317,5 @@ Imagens:
 - `(Engenharia de Software - Edi\347\343o 45.pdf) - A6 - 45-6- Kanbam.pdf <http://www.garcia.pro.br/EngenhariadeSW/artigosMA/A6%20-%2045-6-%20Kanbam.pdf>`_.
 - `Extreme Programming, XP metodologia desenvolvimento ágil | XP | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/xp/>`_.
 - `Scrum: metodologia ágil para gestão e planejamento de projetos | Scrum | DesenvolvimentoAgil.com.br <http://www.desenvolvimentoagil.com.br/scrum/>`_.
+- `Kanban e scrum: obtendo o melhor de ambos <http://jkolb.com.br/wp-content/uploads/2013/09/Kanban-e-Scrum.pdf>`_.
+- `Extreme Programming: Aprenda como encantar seus usuários desenvolvendo software com agilidade e alta qualidade: Capítulo 1 <http://novatec.com.br/livros/extreme/capitulo8575220470.pdf>`_.
