@@ -259,6 +259,7 @@ Roteiro do screencast:
 
 - `Guia Foca Linux <http://www.guiafoca.org/>`_.
 - `Solarized - Ethan Schoonover <http://ethanschoonover.com/solarized>`_.
+- http://brackets.io
 - https://taiga.io/
 - https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems
 - https://taskwarrior.org/docs/start.html
