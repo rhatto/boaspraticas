@@ -289,6 +289,7 @@ Imagens:
 1.11 - Referências
 ------------------
 
+- Imagens usadas nos vídeos?
 - `Best coding practices - Wikipedia, the free encyclopedia <https://en.wikipedia.org/wiki/Best_coding_practices>`_.
 - `Best practices for software development projects <http://www.ibm.com/developerworks/websphere/library/techarticles/0306_perks/perks2.html>`_.
 - `Boas práticas de engenharia de software \| Guia da Startup e da Gestão de Produtos de Software <http://www.guiadastartup.com.br/boas-praticas-de-engenharia-de-software/>`_.

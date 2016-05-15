@@ -84,4 +84,5 @@ A competição no mercado pode forçar a redução do valor cobrado. Porém, a r
 8.7 - Referências
 -----------------
 
-* `Portal do Empreendedor <http://www.portaldoempreendedor.gov.br/>`_.
+- Imagens usadas nos vídeos?
+- `Portal do Empreendedor <http://www.portaldoempreendedor.gov.br/>`_.

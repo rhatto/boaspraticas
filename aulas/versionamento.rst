@@ -274,6 +274,7 @@ Roteiro do screencast:
 4.12 - Referências
 ------------------
 
+* Imagens usadas nos vídeos?
 * `Instalando Git <https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git>`_.
 * `Curso Básico de Git - RBtech <https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0>`_.
 * `cheatsheet do git-flow <https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html>`_.

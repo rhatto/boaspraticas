@@ -257,6 +257,7 @@ Roteiro do screencast:
 2.5 - Referências
 -----------------
 
+- Imagens usadas nos vídeos?
 - `Guia Foca Linux <http://www.guiafoca.org/>`_.
 - `Solarized - Ethan Schoonover <http://ethanschoonover.com/solarized>`_.
 - http://brackets.io

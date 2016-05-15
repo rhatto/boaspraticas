@@ -155,6 +155,7 @@ Roteiro do screencast:
 3.8 - Referências
 -----------------
 
+* Imagens usadas nos vídeos?
 * `TLDRLegal <https://tldrlegal.com>`_.
 * `Open Source Initiative <http://opensource.org/>`_.
 * `CreativeCommons Brasil <https://br.creativecommons.org/>`_.

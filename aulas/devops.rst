@@ -114,6 +114,7 @@ Roteiro do screencast:
 5.8 - Referências
 -----------------
 
+- Imagens usadas nos vídeos?
 - `Trilha sonora: Daft Punk - TRON Legacy <https://www.youtube.com/results?search_query=tron+legacy+soundtrack+>`_.
 - `Automatizando a instalação (deploy) e atualização de sites com Git <http://blog.thiagobelem.net/automatizando-a-instalacao-deploy-e-atualizacao-de-sites-com-git/>`_.
 - `Deploy estilo Heroku usando Git – Elton Minetto <http://eltonminetto.net/blog/2013/11/11/deploy-estilo-heroku-usando-git/>`_.
