@@ -265,3 +265,4 @@ Roteiro do screencast:
 - https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems
 - https://taskwarrior.org/docs/start.html
 - http://kanboard.net/
+- https://cygwin.com/
