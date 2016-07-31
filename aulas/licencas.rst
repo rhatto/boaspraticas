@@ -155,7 +155,9 @@ Roteiro do screencast:
 3.8 - Referências
 -----------------
 
-* Imagens usadas nos vídeos?
+* `Lei 9610/98 - Altera, atualiza e consolida a legislação sobre direitos autorais e dá outras providências <http://www.planalto.gov.br/ccivil_03/leis/L9610.htm>`_.
+* `Lei 9609/98 - Dispõe sobre a proteção da propriedade intelectual de programa de computador, sua comercialização no País, e dá outras providências <http://www.planalto.gov.br/ccivil_03/Leis/L9609.htm>`_.
+* `Lei 9279/96 - Regula direitos e obrigações relativos à propriedade industrial <http://www.planalto.gov.br/ccivil_03/Leis/L9279.htm>`_: programas de computador não são considerados como invenção nem modelo de utilidade.
 * `TLDRLegal <https://tldrlegal.com>`_.
 * `Open Source Initiative <http://opensource.org/>`_.
 * `CreativeCommons Brasil <https://br.creativecommons.org/>`_.
