@@ -47,8 +47,8 @@ Nem sempre os sistemas satisfazem todas essas propriedades!
 * Modelagem de ameaças (teoria) e testes de penetração (prática): inverta os papéis: e se você fosse o/a atacante?
 * Segurança por isolamento ajuda, mas botar a aplicação dentro de um cordão sanitário protege mais o ambiente de hospedagem do que a aplicação.
 
-6.4 - Exemplo e ameaça e o princípio das permissões mínimas
------------------------------------------------------------
+6.4 - Exemplo de ameaça: princípio das permissões mínimas
+---------------------------------------------------------
 
 * Exemplo de ameaça: o(a) atacante tem permissão de escrita no código da aplicação.
 * Mitigação: forneça o mínimo de permissões necessárias para a sua aplicação e libere o acesso conforme necessário.

@@ -257,12 +257,11 @@ Roteiro do screencast:
 2.5 - Referências
 -----------------
 
-- Imagens usadas nos vídeos?
 - `Guia Foca Linux <http://www.guiafoca.org/>`_.
 - `Solarized - Ethan Schoonover <http://ethanschoonover.com/solarized>`_.
-- http://brackets.io
+- `Cygwin <https://cygwin.com/>`_.
+- `Comparativo de sistemas de gestão de projetos <https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems>`_.
+- `Brackets <http://brackets.io>`_.
 - https://taiga.io/
-- https://en.wikipedia.org/wiki/Comparison_of_issue-tracking_systems
-- https://taskwarrior.org/docs/start.html
+- https://taskwarrior.org
 - http://kanboard.net/
-- https://cygwin.com/

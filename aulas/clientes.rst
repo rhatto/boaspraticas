@@ -50,8 +50,8 @@ Por hora corrida ou por projeto?
 * Calcule o valor/hora dos seus honorários.
 * Apresente para o cliente uma tabela com cada tarefa ou grupo de tarefas (design, implementação, controle de qualidade, documentação, etc) com o tempo estimado e o valor da etapa com base no seu valor/hora. Isso facilita muito a negociação e é uma forma de manter um canal aberto de diálogo com o cliente.
 
-8.4 - Quebrando o mercado
--------------------------
+8.4 - Quebrando o mercado?
+--------------------------
 
 8.4 - Competição
 ~~~~~~~~~~~~~~~~
@@ -69,8 +69,8 @@ A competição no mercado pode forçar a redução do valor cobrado. Porém, a r
 * Instituem de tabelas de preços e faixas salarias de referência.
 * Faixas comuns: júnior, pleno e sênior.
 
-8.5 - Formalizando sua relação
-------------------------------
+8.5 - Formalizando a sua relação
+--------------------------------
 
 * MEI: até R$60 mil por ano e apenas R$50 mensais de despesas (dados de 2015).
 * Simples Nacional: sua empresa cresceu!

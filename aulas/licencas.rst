@@ -159,6 +159,8 @@ Roteiro do screencast:
 * `Lei 9609/98 - Dispõe sobre a proteção da propriedade intelectual de programa de computador, sua comercialização no País, e dá outras providências <http://www.planalto.gov.br/ccivil_03/Leis/L9609.htm>`_.
 * `Lei 9279/96 - Regula direitos e obrigações relativos à propriedade industrial <http://www.planalto.gov.br/ccivil_03/Leis/L9279.htm>`_: programas de computador não são considerados como invenção nem modelo de utilidade.
 * `TLDRLegal <https://tldrlegal.com>`_.
+* `Domínio Público <https://creativecommons.org/publicdomain/zero/1.0/deed.pt_BR>`_.
+* `Licença MIT <http://opensource.org/licenses/MIT>`_.
 * `Open Source Initiative <http://opensource.org/>`_.
 * `CreativeCommons Brasil <https://br.creativecommons.org/>`_.
 * `Free Software Foundation — working together for free software <https://www.fsf.org/?set_language=pt>`_.
@@ -168,3 +170,4 @@ Roteiro do screencast:
 * `O problema da Licença BSD - Projeto GNU - Free Software Foundation <https://www.gnu.org/philosophy/bsd.pt-br.html>`_.
 * `Software livre, código aberto e software gratuito: as diferenças <http://www.infowester.com/freexopen.php>`_.
 * `Licença Pública Mozilla versão 1.1 <http://br.mozdev.org/MPL/>`_.
+* `Licença Apache <https://www.apache.org/licenses/LICENSE-2.0.html>`_.
