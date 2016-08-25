@@ -75,3 +75,4 @@ Roteiro do screencast:
 * `On Documentation-Driven Development // Collective Idea | Crafting web and mobile software based in Holland, Michigan <http://collectiveidea.com/blog/archives/2014/04/21/on-documentation-driven-development/>`_.
 * `Readme Driven Development <http://tom.preston-werner.com/2010/08/23/readme-driven-development.html>`_.
 * https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+* `From 10x programmer to 0.1x programmer: creating more with less · Code Without Rules <https://codewithoutrules.com/2016/08/25/the-01x-programmer/>`_.
