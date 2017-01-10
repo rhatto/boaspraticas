@@ -92,6 +92,8 @@ profissional melhor aplicando este conhecimento ?
 Material Didático
 ~~~~~~~~~~~~~~~~~
 
+Wescley brasil novo dono
+
 Código para acompanhamento:
 
 - `Blogático <https://github.com/rhatto/blogatico>`_.
