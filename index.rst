@@ -1,6 +1,8 @@
 Boas Práticas em Desenvolvimento
 ================================
 
+Assista o `curso online <http://cursos.timtec.com.br/course/boas-praticas-em-desenvolimento-de-software/intro/>`_.
+
 .. toctree::
    :maxdepth: 2
 
