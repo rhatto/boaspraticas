@@ -4,10 +4,9 @@
 1.1 - O que são boas práticas em desenvolvimento?
 -------------------------------------------------
 
-1.1 - Apresentação do professor e do curso
+1.1 - Apresentação do curso
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Silvio Rhatto, desenvolvedor autodidata.
 - Curso dividido em aulas independentes umas das outras.
 - O curso completo é acompanhado pelo desenvolvimento de uma pequena aplicação.
 
@@ -246,7 +245,7 @@ Imagens:
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 0. Descoberta:
- 
+
   * Problema: garantir que o aluno, ao concluir este curso, possua um blog simples para relatar suas descobertas em desenvolvimento de software (knowledge base / bagagem de conhecimento pessoal).
   * Escopo:
 
