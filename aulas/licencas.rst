@@ -171,3 +171,5 @@ Roteiro do screencast:
 * `Software livre, código aberto e software gratuito: as diferenças <http://www.infowester.com/freexopen.php>`_.
 * `Licença Pública Mozilla versão 1.1 <http://br.mozdev.org/MPL/>`_.
 * `Licença Apache <https://www.apache.org/licenses/LICENSE-2.0.html>`_.
+* `Developer Certificate of Origin <https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin>`_
+* `ContractPatch <https://sfconservancy.org/contractpatch/>`_.
