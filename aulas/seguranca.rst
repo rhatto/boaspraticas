@@ -119,3 +119,4 @@ Roteiro do screencast:
 * Imagens usadas nos vídeos?
 * `Let's Encrypt <https://letsencrypt.org>`_.
 * `Segurança da informação – Wikipédia, a enciclopédia livre <https://pt.wikipedia.org/wiki/Seguran%C3%A7a_da_informa%C3%A7%C3%A3o>`_.
+* `Web Privacy Rocks! <https://webprivacy.rocks/>`_: collection of documents about privacy on the Web and developing for the privacy-friendly web.
